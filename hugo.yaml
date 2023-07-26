@@ -1,0 +1,179 @@
+baseURL: "https://ngntrgduc.github.io/"
+title: ngntrgduc
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: false
+  minifyOutput: true
+
+params:
+  title: ngntrgduc
+  # description: "ngntrgduc's space"
+  keywords: [ngntrgduc]
+  # author: 
+  images: ["static/pikachu.jpg"]
+  # DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  # disableThemeToggle: false
+
+  # ShowReadingTime: true
+  # ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  # ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: true
+  showtoc: true
+  tocopen: true
+
+  assets:
+    disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "ngntrgduc's space"
+    icon: /avatar.jpg
+    iconHeight: 30
+
+  # profile-mode
+  # profileMode:
+  #   enabled: false # needs to be explicitly set
+  #   title: ngntrgduc
+  #   subtitle: "This is subtitle"
+  #   imageUrl: "<img location>"
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   imageTitle: my image
+  #   buttons:
+  #     - name: Posts
+  #       url: posts
+  #     - name: Tags
+  #       url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there 🐧"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: email
+      url: "mailto:trungducnguyen1511@email.com"
+    - name: facebook
+      url: "https://facebook.com/nguyenduc1511"
+    - name: github
+      title: GitHub
+      url: "https://github.com/ngntrgduc/"
+    - name: linkedin
+      title: LinkedIn
+      url: "https://www.linkedin.com/in/ngntrgduc/"
+    - name: mastodon
+      url: "https://mathstodon.xyz/@ngntrgduc"
+    - name: kofi
+      title: Buy me a coffee
+      url: "https://ko-fi.com/ngntrgduc"
+    - name: rss
+      url: "https://ngntrgduc.github.io/index.xml"
+    
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+          main:
+            - identifier: about
+              name: About
+              url: /about/
+              weight: 1
+            - identifier: now
+              name: Now
+              url: /now/
+              weight: 2
+            - identifier: publications
+              name: Publications
+              url: /publications/
+              weight: 3
+            - identifier: resume
+              name: Resume
+              url: https://ngntrgduc.github.io/my-resume
+              weight: 4
+            - identifier: resources
+              name: Resources
+              url: /resources/
+              weight: 5
+            - identifier: archives
+              name: 📦
+              title: Archive
+              url: /archives/
+              weight: 6
+            - identifier: tags
+              name: 🏷️
+              title: Tags
+              url: /tags/
+              weight: 7
+            - identifier: search
+              name: 🔎
+              title: Search
+              url: /search/
+              weight: 8
+  
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    # noClasses: false
+    # anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    # lineNos: true
+    style: dracula
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
