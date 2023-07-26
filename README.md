@@ -1,1 +1,0 @@
-# ngntrgduc.github.io
