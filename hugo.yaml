@@ -21,7 +21,6 @@ params:
   # DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   # disableThemeToggle: false
-
   # ShowReadingTime: true
   # ShowShareButtons: true
   ShowPostNavLinks: true
@@ -37,6 +36,8 @@ params:
   hideSummary: true
   showtoc: true
   tocopen: true
+
+  stickyHeader: true
 
   assets:
     disableHLJS: true # to disable highlight.js
@@ -54,18 +55,23 @@ params:
 
   # profile-mode
   # profileMode:
-  #   enabled: false # needs to be explicitly set
+  #   enabled: true # needs to be explicitly set
   #   title: ngntrgduc
-  #   subtitle: "This is subtitle"
-  #   imageUrl: "<img location>"
+  #   subtitle: ""
+  #   imageUrl: /avatar.jpg
   #   imageWidth: 120
   #   imageHeight: 120
-  #   imageTitle: my image
+  #   imageTitle: "It's me"
   #   buttons:
   #     - name: Posts
   #       url: posts
+  #     - name: Archives
+  #       title: Archives
+  #       url: archives
   #     - name: Tags
   #       url: tags
+  #     - name: Search
+  #       url: search
 
   # home-info mode
   homeInfoParams:
