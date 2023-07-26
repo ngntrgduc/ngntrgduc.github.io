@@ -1,6 +1,5 @@
 ---
 title: "Resources"
-draft: true
 comments: false
 ---
 
