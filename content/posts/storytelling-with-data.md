@@ -11,16 +11,16 @@ Just some notes about the book "[Storytelling with Data](https://www.amazon.com/
 
 ### Effective visual
     
-![](../../assets/images/storytelling/1.png)
+![](/storytelling/1.png)
 
-![](../../assets/images/storytelling/2.png)
+![](/storytelling/2.png)
     
     
 ### Never use 3D, pie chart
 ### Only add data with a thoughtful and specific purpose in mind
 ### Zero baseline
 
-![](../../assets/images/storytelling/3.png)
+![](/storytelling/3.png)
 
 ### Remove clutter
 - Remove chart border
@@ -30,84 +30,84 @@ Just some notes about the book "[Storytelling with Data](https://www.amazon.com/
 - Label data directly
 - Leverage consistent color
 
-![](../../assets/images/storytelling/4.png)
+![](/storytelling/4.png)
 
 > Clutter is your enemy: ban it from your visuals
     
 ### Preattentive attributes
     
-![](../../assets/images/storytelling/5.png)
+![](/storytelling/5.png)
     
 ### Use color sparingly
     
-![](../../assets/images/storytelling/6.png)
+![](/storytelling/6.png)
     
 ### Focus your audience’s attention where you want them to pay it
     
-![](../../assets/images/storytelling/7.png)
+![](/storytelling/7.png)
     
 ### Highlighting the important stuff and eliminating distractions,
     
-![](../../assets/images/storytelling/8.png)
+![](/storytelling/8.png)
     
 ### Aesthetic design
     
-![](../../assets/images/storytelling/9.png)
+![](/storytelling/9.png)
 
-![](../../assets/images/storytelling/10.png)
+![](/storytelling/10.png)
     
 ### Red is used as the single **attention‐grabbing** color
     
-![](../../assets/images/storytelling/11.png)
+![](/storytelling/11.png)
         
 ### White background: Easy to focus on data
     
-![](../../assets/images/storytelling/12.png)
+![](/storytelling/12.png)
     
 ### Strategies for avoiding the spaghetti graph
 
 - Spaghetti graph
     
-    ![](../../assets/images/storytelling/13.png)
+    ![](/storytelling/13.png)
     
 - Emphasize one line at a time
     
-    ![](../../assets/images/storytelling/14.png)
+    ![](/storytelling/14.png)
     
 - Separate spatially
     - Able to see the trend for a given category
     
-    ![](../../assets/images/storytelling/15.png)
+    ![](/storytelling/15.png)
     
     - Comparing the values across categories
     
-    ![](../../assets/images/storytelling/16.png)
+    ![](/storytelling/16.png)
     
     - Combined approach
     
-    ![](../../assets/images/storytelling/17.png)
+    ![](/storytelling/17.png)
     
-    ![](../../assets/images/storytelling/18.png)
+    ![](/storytelling/18.png)
         
 ### Alternatives to pies
     
-![](../../assets/images/storytelling/19.png)
+![](/storytelling/19.png)
 
 - Show the numbers directly
     
-    ![](../../assets/images/storytelling/20.png)
+    ![](/storytelling/20.png)
     
 - Simple bar graph
     
-    ![](../../assets/images/storytelling/21.png)
+    ![](/storytelling/21.png)
     
 - 100% stacked horizontal bar graph
     
-    ![](../../assets/images/storytelling/22.png)
+    ![](/storytelling/22.png)
     
 - Slopegraph
     
-    ![](../../assets/images/storytelling/23.png)
+    ![](/storytelling/23.png)
         
 ## **Recap**
     

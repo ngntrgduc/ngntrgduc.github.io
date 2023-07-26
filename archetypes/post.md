@@ -3,13 +3,10 @@ title: "Title"
 date: 2023-01-11
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["random"]
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
-hidemeta: false
-comments: false
-description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false

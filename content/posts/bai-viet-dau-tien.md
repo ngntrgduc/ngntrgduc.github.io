@@ -19,5 +19,3 @@ Mình có đọc được một câu rất hay :
 
 ## Lời kết
 Bài viết đầu tiên tới đây thôi. Cảm ơn mọi người đã đọc :>. Mình nghĩ sẽ có nhiều thứ hay ho ở đây lắm, nên mọi người nhớ đón chờ nhe :>.
-
-![](https://c.tenor.com/MKU57hv9JkwAAAAi/capoo-bugcat.gif)
