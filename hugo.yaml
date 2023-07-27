@@ -1,6 +1,6 @@
 baseURL: "https://ngntrgduc.github.io/"
 title: ngntrgduc
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -17,14 +17,14 @@ params:
   # description: "ngntrgduc's space"
   keywords: [ngntrgduc]
   # author: 
-  images: ["static/pikachu.jpg"]
+  # images: /avatar.jpg
   # DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   # disableThemeToggle: false
   # ShowReadingTime: true
   # ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  # ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   # ShowWordCount: true
   ShowRssButtonInSectionTermList: true
@@ -55,7 +55,7 @@ params:
 
   # profile-mode
   # profileMode:
-  #   enabled: true # needs to be explicitly set
+  #   enabled: false # needs to be explicitly set
   #   title: ngntrgduc
   #   subtitle: ""
   #   imageUrl: /avatar.jpg
@@ -63,14 +63,14 @@ params:
   #   imageHeight: 120
   #   imageTitle: "It's me"
   #   buttons:
-  #     - name: Posts
+  #     - name: Posts 📂
   #       url: posts
-  #     - name: Archives
+  #     - name: Archives 📦
   #       title: Archives
   #       url: archives
-  #     - name: Tags
+  #     - name: Tags 🏷️
   #       url: tags
-  #     - name: Search
+  #     - name: Search 🔎
   #       url: search
 
   # home-info mode
