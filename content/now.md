@@ -1,6 +1,5 @@
 ---
 title:  "What I’m doing now"
-comments: false
 ---
 
 - Là sinh viên năm 2, ngành Toán tin tại trường Đại học Khoa học Tự nhiên, ĐHQG - TP.HCM.

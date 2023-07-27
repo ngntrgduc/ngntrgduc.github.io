@@ -7,22 +7,22 @@ tags: ["code"]
 Just some notes about the book "[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)"
 
 ---
-## Notes
+# Notes
 
-### Effective visual
+## Effective visual
     
 ![](/storytelling/1.png)
 
 ![](/storytelling/2.png)
     
     
-### Never use 3D, pie chart
-### Only add data with a thoughtful and specific purpose in mind
-### Zero baseline
+## Never use 3D, pie chart
+## Only add data with a thoughtful and specific purpose in mind
+## Zero baseline
 
 ![](/storytelling/3.png)
 
-### Remove clutter
+## Remove clutter
 - Remove chart border
 - Remove gridlines
 - Remove data markers: use them on purpose and with a purpose
@@ -34,37 +34,37 @@ Just some notes about the book "[Storytelling with Data](https://www.amazon.com/
 
 > Clutter is your enemy: ban it from your visuals
     
-### Preattentive attributes
+## Preattentive attributes
     
 ![](/storytelling/5.png)
     
-### Use color sparingly
+## Use color sparingly
     
 ![](/storytelling/6.png)
     
-### Focus your audience’s attention where you want them to pay it
+## Focus your audience’s attention where you want them to pay it
     
 ![](/storytelling/7.png)
     
-### Highlighting the important stuff and eliminating distractions,
+## Highlighting the important stuff and eliminating distractions,
     
 ![](/storytelling/8.png)
     
-### Aesthetic design
+## Aesthetic design
     
 ![](/storytelling/9.png)
 
 ![](/storytelling/10.png)
     
-### Red is used as the single **attention‐grabbing** color
+## Red is used as the single **attention‐grabbing** color
     
 ![](/storytelling/11.png)
         
-### White background: Easy to focus on data
+## White background: Easy to focus on data
     
 ![](/storytelling/12.png)
     
-### Strategies for avoiding the spaghetti graph
+## Strategies for avoiding the spaghetti graph
 
 - Spaghetti graph
     
@@ -89,7 +89,7 @@ Just some notes about the book "[Storytelling with Data](https://www.amazon.com/
     
     ![](/storytelling/18.png)
         
-### Alternatives to pies
+## Alternatives to pies
     
 ![](/storytelling/19.png)
 
@@ -109,7 +109,7 @@ Just some notes about the book "[Storytelling with Data](https://www.amazon.com/
     
     ![](/storytelling/23.png)
         
-## **Recap**
+# **Recap**
     
 1. **Understand the context**. Build a clear understanding of who you are communicating to, what you need them to know or do, how you will communicate to them, and what data you have to back up your case. Employ concepts like the 3‐minute story, the Big Idea, and storyboarding to articulate your story and plan the desired content and flow.
 

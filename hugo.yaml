@@ -28,7 +28,7 @@ params:
   ShowCodeCopyButtons: true
   # ShowWordCount: true
   ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
+  # UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -76,7 +76,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there 🐧"
-    Content: Welcome to my blog
+    Content: Welcome to my blog, feel free to hit me up
 
   socialIcons:
     - name: email
