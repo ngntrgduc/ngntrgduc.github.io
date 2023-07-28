@@ -101,3 +101,7 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
+
+html {
+    scroll-padding-top: calc(var(--header-height) * 2); /* height of sticky header */
+}
