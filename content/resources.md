@@ -1,9 +1,10 @@
 ---
 title: "Resources"
+math: true
 ---
-- Bạn có thể đọc docs của tui [ở đây](https://ngntrgduc.github.io/docs/) (dead 🥲).
+- Bạn có thể đọc docs của mình [ở đây](https://ngntrgduc.github.io/docs/) (dead 🥲).
 - [Random quotes](/quotes).
-- Đây là trang lưu trữ một số nguồn tài liệu mà tui thấy hay hay.
+- Đây là trang lưu trữ một số nguồn tài liệu mà mình thấy hay hay.
 # Mathematics
 ## Videos
 - [Essence of linear algebra from 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -11,6 +12,7 @@ title: "Resources"
 
 ## Books
 - Principles of Mathematical Analysis, Walter Rudin (Baby Rudin)
+- A First Course in Probability, Sheldon M. Ross
 - [Convex Optimization, Stephen Boyd, Lieven Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 
@@ -22,7 +24,7 @@ title: "Resources"
 - [Seeing theory](https://seeing-theory.brown.edu/index.html): A visual introduction to probability and statistics
 
 ## Misc
-- [Awesome Math on GitHub](https://github.com/rossant/awesome-math)
+- [Awesome Math - GitHub](https://github.com/rossant/awesome-math)
 - [A Guide to Writing Mathematics, Dr. Kevin P. Lee](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
 - [Typst](https://github.com/typst/typst): Giảm gánh nặng cho việc gõ công thức toán, kẻ thay thế Latex...
 - [Learn Latex in 30 minutes - Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
@@ -31,14 +33,23 @@ title: "Resources"
 
 ## Resources
 - [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course)
-- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Mathematics for Machine Learning book](https://mml-book.github.io/)
 - [Full Stack Deep Learning Courses](https://fullstackdeeplearning.com/course/)
+- [Machine Learning Glossary - Google](https://developers.google.com/machine-learning/glossary)
 
 ## Sites/Blogs
 - [Distill](https://distill.pub/)
 - [Machine Learning Grossary - Google](https://developers.google.com/machine-learning/glossary)
 - https://kidger.site/
+- [Off the Convex Path](http://www.offconvex.org/)
+
+### Misc.
+- [Google Colab Tips for Power Users ](https://amitness.com/2020/06/google-colaboratory-tips/)
+
+# Paper
+
+- [How to read a paper, S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 
 
----
-Cập nhật lần cuối 25/7/2023
+# Random blog
+- [Góc nhỏ của $\vec{K}$](https://balldk.github.io/)
