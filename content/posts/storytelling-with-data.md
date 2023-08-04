@@ -1,7 +1,7 @@
 ---
 title:  "Storytelling with Data notes"
 date: 2023-04-26
-tags: ["code"]
+tags: ["data"]
 ---
 
 Just some notes about the book "[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)"
