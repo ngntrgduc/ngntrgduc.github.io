@@ -248,9 +248,9 @@ languages:
           name: Publications
           url: /publications/
           weight: 3
-        - identifier: resume
-          name: Resume
-          url: https://ngntrgduc.github.io/my-resume
+        - identifier: cv
+          name: CV
+          url: https://ngntrgduc.github.io/cv
           weight: 4
         - identifier: resources
           name: Resources

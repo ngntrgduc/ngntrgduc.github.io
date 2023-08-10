@@ -2,9 +2,9 @@
 title: "Resources"
 math: true
 ---
-- Bạn có thể đọc docs của mình [ở đây](https://ngntrgduc.github.io/docs/) (dead 🥲).
-- [Random quotes](/quotes).
-- Đây là trang lưu trữ một số nguồn tài liệu mà mình thấy hay hay.
+- Bạn có thể đọc docs của mình [ở đây](https://ngntrgduc.github.io/docs/) (dead 🥲)
+- [Random quotes](/quotes)
+- Đây là trang lưu trữ một số nguồn tài liệu mà mình thấy hay hay
 # Mathematics
 ## Videos
 - [Essence of linear algebra from 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -22,6 +22,7 @@ math: true
 - [Blog của Terence Tao](https://terrytao.wordpress.com/)
 - [Wolfram Mathworld](https://mathworld.wolfram.com/): the web's most extensive mathematics resources, bạn có thể coi đây là 1 cái roadmap cũng được
 - [Seeing theory](https://seeing-theory.brown.edu/index.html): A visual introduction to probability and statistics
+- [r/math](https://www.reddit.com/r/math/top/?t=all): 🤯
 
 ## Misc
 - [Awesome Math - GitHub](https://github.com/rossant/awesome-math)
@@ -51,5 +52,8 @@ math: true
 - [How to read a paper, S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 
 
-# Random blog
+# Blogroll
 - [Góc nhỏ của $\vec{K}$](https://balldk.github.io/)
+
+# Misc
+- [MITOpenCourseWare](https://ocw.mit.edu/search/): I'm lost 🥲
