@@ -23,7 +23,7 @@ params:
   # disableThemeToggle: false
   # ShowReadingTime: true
   # ShowShareButtons: true
-  ShowPostNavLinks: true
+  # ShowPostNavLinks: true
   # ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   # ShowWordCount: true
