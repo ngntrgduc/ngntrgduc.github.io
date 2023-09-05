@@ -23,6 +23,7 @@ math: true
 - [Wolfram Mathworld](https://mathworld.wolfram.com/): the web's most extensive mathematics resources, bạn có thể coi đây là 1 cái roadmap cũng được
 - [Seeing theory](https://seeing-theory.brown.edu/index.html): A visual introduction to probability and statistics
 - [r/math](https://www.reddit.com/r/math/top/?t=all): 🤯
+- https://www.probabilitycourse.com/
 
 ## Misc
 - [Awesome Math - GitHub](https://github.com/rossant/awesome-math)
@@ -43,6 +44,7 @@ math: true
 - [Machine Learning Grossary - Google](https://developers.google.com/machine-learning/glossary)
 - https://kidger.site/
 - [Off the Convex Path](http://www.offconvex.org/)
+- [Machine Learning Research Blog - Francis Bach](https://francisbach.com/)
 
 ### Misc.
 - [Google Colab Tips for Power Users ](https://amitness.com/2020/06/google-colaboratory-tips/)
@@ -54,6 +56,10 @@ math: true
 
 # Blogroll
 - [Góc nhỏ của $\vec{K}$](https://balldk.github.io/)
+- https://lukesmith.xyz/
+- https://ericmurphy.xyz/
 
 # Misc
 - [MITOpenCourseWare](https://ocw.mit.edu/search/): I'm lost 🥲
+- [So You're Starting a PhD?](https://web.engr.oregonstate.edu/~rosulekm/advising.html)
+- https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/

@@ -14,7 +14,7 @@ title:  "Random quotes"
 
 > "Whatever happens, happens."
 
-> 
+> "You keep on learning and learning, and pretty soon you learn something no one has learned before." - Richard Feynman
 
 > 
 

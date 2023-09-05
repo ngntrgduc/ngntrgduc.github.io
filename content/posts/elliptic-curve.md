@@ -46,7 +46,7 @@ Ví dụ:
 ![](https://assets.cdn.prod.twilio.com/images/XTdQOAm3k7Q0_kVHMJG-qDcqLFAgL9uR968MInDZZZW.format-webp.webp)
 
 ---
-Elliptic Curve ứng dụng rất nhiều vô mảng cryptography. Cụ thể, nó là một thuật toán thuộc loại public key cryptography, nó ngon hơn thuật toán [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), nhưng ít được sử dụng hơn. Ngoài ra thì Bitcoin cũng sử dụng [NIST curve `secp256k1`](https://en.bitcoin.it/wiki/Secp256k1) với Elliptic Curve là $y^2 = x^3 + 7$. À và cả [Proton Mail](https://proton.me/mail) nữa (Curve25519).
+Elliptic Curve ứng dụng rất nhiều vô mảng cryptography. Cụ thể, nó là một thuật toán thuộc loại public key cryptography, nó ngon hơn thuật toán [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), nhưng ít được sử dụng hơn. Ngoài ra thì Bitcoin cũng sử dụng [NIST curve **secp256k1**](https://en.bitcoin.it/wiki/Secp256k1) với Elliptic Curve là $y^2 = x^3 + 7$. À và cả [Proton Mail](https://proton.me/mail) nữa (Curve25519).
 
 Bạn có thể đọc thêm [thesis này](https://bearworks.missouristate.edu/cgi/viewcontent.cgi?article=4697&context=theses) để biết thêm 1 số ứng dụng của Elliptic Curve vào cryptography (tại nhiều quá nên mình cũng ngộp).
 
