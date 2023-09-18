@@ -35,7 +35,7 @@ params:
   # hidemeta: true
   hideSummary: true
   showtoc: true
-  tocopen: true
+  # tocopen: true
   enableInlineShortcodes: true
   stickyHeader: true
 
@@ -244,10 +244,10 @@ languages:
           name: Now
           url: /now/
           weight: 2
-        - identifier: publications
-          name: Publications
-          url: /publications/
-          weight: 3
+        # - identifier: publications
+        #   name: Publications
+        #   url: /publications/
+        #   weight: 3
         - identifier: cv
           name: CV
           url: https://ngntrgduc.github.io/cv

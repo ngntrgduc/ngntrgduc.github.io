@@ -2,4 +2,4 @@
 title: "About me"
 ---
 
-Hi 🐧. I'm currently a student of faculty Mathematics and Computer Science at University of Science - VNUHCM.
+Hi 🐧. I'm a junior majoring in Mathematics and Computer Science at University of Science - VNUHCM.
