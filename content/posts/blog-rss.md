@@ -26,6 +26,8 @@ Nhưng gần đây mình mới phát hiện ra là [Thunderbird](https://www.thu
 ---
 
 **PS**: trong thời gian viết bài này, khi lướt kĩ cái wikipedia về RSS thì mình mới phát hiện ra là có đoạn nó ghi là RSS có thể được đọc với email client như Thunderbird 🙂:
-> "There are various news aggregator software for desktop and mobile devices, but RSS can also be built-in inside web browsers or **email clients like Mozilla Thunderbird**." - Wikipedia
+> "There are various news aggregator software for desktop and mobile devices, but RSS can also be built-in inside web browsers or **email clients like Mozilla Thunderbird**."
+>
+> Wikipedia
 
 **PPS**: blog của mình cũng có RSS đó nha :>, vô [trang chủ](https://ngntrgduc.github.io/) hay là vô cái [/post](https://ngntrgduc.github.io/posts/) là có :>.
