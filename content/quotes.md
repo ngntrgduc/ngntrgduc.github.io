@@ -2,9 +2,9 @@
 title:  "Random quotes"
 ---
 
-> "Good things take time"
+> "Good things take time."
 
-> "Small progress is still progress"
+> "Small progress is still progress."
 
 > "All models are wrong, but some are useful." - George Box
 
@@ -17,5 +17,3 @@ title:  "Random quotes"
 > "You keep on learning and learning, and pretty soon you learn something no one has learned before." - Richard Feynman
 
 > "Shoot for the moon. Even if you miss, you'll land among the stars." - Norman Vincent Peale 
-
-> 
