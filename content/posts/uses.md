@@ -27,11 +27,12 @@ tags: ["random"]
 # Linh tinh
 - [Notion](https://www.notion.so/): Mình dùng cho việc lên Todo list, track mấy cái linh tinh,... Hồi xưa mình còn dùng để học từ vựng tiếng Anh nữa nhưng mà nó lag vcl nên mình từ bỏ 🙂.
 - [Google Calendar](https://calendar.google.com/): Ah yes. Time management. ~~Nó đã giúp mình thấy được rằng tuần nào mình cũng có deadline.~~
-- [HackMD](https://hackmd.io/): Mình dùng để viết những thứ linh tinh với markdown. Còn khi không có mạng thì mình dùng [Marktext](https://github.com/marktext/marktext).
+- [HackMD](https://hackmd.io/): Mình dùng để viết những thứ linh tinh với markdown.
 - [Obsidian](https://obsidian.md/): Mình dùng để tạo cái graph knowledge (tại mình kiếm không ra cái app nào để tạo cái graph giống như Obsidian hết. Có [Logseq](https://github.com/logseq/logseq) nhưng mà nó nặng quá 😢). Btw thì nó cũng dùng để làm second brain được.
 - [espanso](https://github.com/espanso/espanso): Cross-platform Text Expander.
 - [Thunderbird](https://www.thunderbird.net/en-US/): Emails management, RSS reader, and Privacy.
 - [ripgrep](https://github.com/BurntSushi/ripgrep): recursively searches directories for a regex pattern.
+- [Flameshot](https://github.com/flameshot-org/flameshot): screenshot software.
 
 ---
 Last modified: 9/17/2023
