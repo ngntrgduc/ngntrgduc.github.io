@@ -2,7 +2,7 @@
 title: "My Projects Graveyard"
 date: 2023-12-31T10:56:18+07:00
 tags: ["code"]
-draft: true
+draft: false
 ---
 
 - Inspired by [My Github graveyard | schollz](https://schollz.com/tinker/graveyard/).
