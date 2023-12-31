@@ -3,9 +3,10 @@ title: "Resources"
 math: true
 tocopen: true
 ---
+- Đây là trang lưu trữ một số nguồn tài liệu mà mình thấy hay hay
 - Bạn có thể đọc docs của mình [ở đây](https://ngntrgduc.github.io/docs/) (dead 🥲)
 - [Random quotes](/quotes)
-- Đây là trang lưu trữ một số nguồn tài liệu mà mình thấy hay hay
+
 # Mathematics
 ## Videos
 - [Essence of linear algebra from 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -25,12 +26,15 @@ tocopen: true
 - [Seeing theory](https://seeing-theory.brown.edu/index.html): A visual introduction to probability and statistics
 - [r/math](https://www.reddit.com/r/math/top/?t=all): 🤯
 - https://www.probabilitycourse.com/: Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik
+- https://betterexplained.com/
 
 ## Misc
 - https://github.com/rossant/awesome-math
 - [A Guide to Writing Mathematics, Dr. Kevin P. Lee](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
 - [Typst](https://github.com/typst/typst): Giảm gánh nặng cho việc gõ công thức toán, kẻ thay thế Latex...
 - [Learn Latex in 30 minutes - Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+- https://github.com/ncase/trust
+- https://ncatlab.org/nlab/show/mathematics
 
 # AI-ML-DL
 
@@ -43,9 +47,10 @@ tocopen: true
 ## Sites/Blogs
 - [Distill](https://distill.pub/)
 - [Machine Learning Grossary - Google](https://developers.google.com/machine-learning/glossary)
-- https://kidger.site/
+- https://kidger.site/: [Just know stuff. (Or, how to achieve success in a machine learning PhD.)](https://kidger.site/thoughts/just-know-stuff/)
 - [Off the Convex Path](http://www.offconvex.org/)
 - [Machine Learning Research Blog - Francis Bach](https://francisbach.com/)
+- [100 Lectures on Machine Learning](https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/)
 
 ### Misc.
 - [Google Colab Tips for Power Users ](https://amitness.com/2020/06/google-colaboratory-tips/)
@@ -57,6 +62,8 @@ tocopen: true
 - https://ericmurphy.xyz/
 - https://lilianweng.github.io/
 - https://www.countbayesie.com/
+- https://notes.huy.rocks/
+- https://lnhutnam.github.io/
 
 # CS
 Hồi xưa mình cũng có nghịch 1 chút bên mảng này...
@@ -67,12 +74,15 @@ Hồi xưa mình cũng có nghịch 1 chút bên mảng này...
 - [Refactoring](https://refactoring.guru/refactoring)/[Design Patterns](https://refactoring.guru/design-patterns/catalog)
 - [Google Style Guide](https://google.github.io/styleguide/)
 - [VisuAlgo](https://visualgo.net/en)
-- https://www.learncpp.com/
+- [Learn C++](https://www.learncpp.com/)
 - https://github.com/mhinz/vim-galore: All things Vim!
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+- [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
 # Misc
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/): I'm lost 🥲
+- [Microsoft training](https://learn.microsoft.com/en-us/training/)
 - [How to read a paper, S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [So You're Starting a PhD?](https://web.engr.oregonstate.edu/~rosulekm/advising.html)
 - [Andrej Karpathy - A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
+- https://franknielsen.github.io/Books/CuratedBookLists.html
