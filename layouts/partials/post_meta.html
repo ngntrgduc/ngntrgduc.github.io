@@ -1,0 +1,57 @@
+{{- $scratch := newScratch }}
+
+{{- if not .Date.IsZero -}}
+{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+{{- end }}
+
+{{- if (.Param "ShowReadingTime") -}}
+{{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}
+{{- end }}
+
+{{- if (.Param "ShowWordCount") -}}
+{{- $scratch.Add "meta" (slice (i18n "words" .WordCount | default (printf "%d words" .WordCount))) }}
+{{- end }}
+
+
+<!-- {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+<ul class="post-tags">
+    {{- range ($.GetTerms $tags) }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{- end }}
+</ul> -->
+
+{{- $author := (partial "author.html" .) }}
+{{- $tags := (partial "tags.html" .) }}
+{{- if $tags }}
+    {{- $scratch.Add "meta" (slice $author $tags) -}}
+{{- else}}
+    {{- $scratch.Add "meta" (slice $author) -}}
+{{- end}}
+<!-- 
+{{- $tags := .Params.tags -}}
+{{- if $tags -}}
+<ul class="post-tags" style="padding-top: 5px;">
+  {{- $lastIndex := sub (len $tags) 1 -}}
+  {{- range $index, $tag := $tags -}}
+    <li><a href="/tags/{{ $tag }}"> {{ $tag }}</a></li>
+    {{- if ne $index $lastIndex }}{{ end -}}
+  {{- end -}}
+</ul>
+{{- end -}} -->
+
+{{- $tags := .Params.tags -}}
+{{- if $tags -}}
+<!-- <ul class="post-tags" style="padding-top: 5px;"> -->
+  {{- $lastIndex := sub (len $tags) 1 -}}
+  {{- range $index, $tag := $tags -}}
+    <!-- <li><a href="/tags/{{ $tag }}"> {{ $tag }}</a></li> -->
+    <!-- <a href="/tags/{{ $tag | urlize }}"> {{ $tag }}</a> -->
+    {{- $scratch.Add "meta" (slice $tags) -}}
+    {{- if ne $index $lastIndex }}{{ end -}}
+  {{- end -}}
+<!-- </ul> -->
+{{- end -}}
+
+{{- with ($scratch.Get "meta") }}
+{{- delimit . "&nbsp;&nbsp;&nbsp;&nbsp;" -}}
+{{- end -}}

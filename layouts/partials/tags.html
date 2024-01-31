@@ -1,0 +1,21 @@
+<!-- {{- $tags := .Params.tags -}}
+{{- if $tags -}}
+<div class="post-tags" style="padding-top: 5px;">
+  {{- $lastIndex := sub (len $tags) 1 -}}
+  {{- range $index, $tag := $tags -}}
+    <li><a href="/tags/{{ $tag }}"> {{ $tag }}</a></li>
+    <a href="/tags/{{ $tag | urlize }}"> {{ $tag }}</a>
+    {{- if ne $index $lastIndex }}{{ end -}}
+  {{- end -}}
+</ul>
+{{- end -}} -->
+
+
+<!-- {{- $tags := .Params.tags -}}
+{{- if $tags -}}
+  {{- $lastIndex := sub (len $tags) 1 -}}
+  {{- range $index, $tag := $tags -}}
+    <a href="/tags/{{ $tag | urlize }}"> {{ $tag }}</a>
+    {{- if ne $index $lastIndex }}&nbsp;·&nbsp;{{ end -}}
+  {{- end -}}
+{{- end -}} -->
