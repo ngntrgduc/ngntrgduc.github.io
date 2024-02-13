@@ -17,3 +17,7 @@ title:  "Random quotes"
 > "You keep on learning and learning, and pretty soon you learn something no one has learned before." - Richard Feynman
 
 > "Shoot for the moon. Even if you miss, you'll land among the stars." - Norman Vincent Peale 
+
+> "Today is the first day of the rest of your life" - Elon Musk
+
+> "If you can't do great things, do small things in a great way." - Napoleon Hill

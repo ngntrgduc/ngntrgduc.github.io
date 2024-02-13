@@ -16,6 +16,7 @@ tocopen: true
 - Principles of Mathematical Analysis, Walter Rudin (Baby Rudin)
 - A First Course in Probability, Sheldon M. Ross
 - [Convex Optimization, Stephen Boyd, Lieven Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- Numerical linear algebra, Nick Trefethen
 
 
 ## Sites/Blogs
@@ -81,7 +82,7 @@ Hồi xưa mình cũng có nghịch 1 chút bên mảng này...
 
 # Misc
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/): I'm lost 🥲
-- [Microsoft training](https://learn.microsoft.com/en-us/training/)
+- [Microsoft learn](https://learn.microsoft.com/en-us/training/)
 - [How to read a paper, S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [So You're Starting a PhD?](https://web.engr.oregonstate.edu/~rosulekm/advising.html)
 - [Andrej Karpathy - A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)

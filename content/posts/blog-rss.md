@@ -19,7 +19,7 @@ Bản dịch nhà làm: RSS là cái web feed (giống cái newsfeed trên Faceb
 # Dùng gì để đọc RSS
 Để đọc được RSS thì bạn cần phải có RSS reader. Có rất nhiều open-source RSS reader như: [Miniflux](https://github.com/miniflux/v2), [Newsboat](https://github.com/newsboat/newsboat), [FreshRSS](https://github.com/FreshRSS/FreshRSS),... Nhưng khổ nỗi mình dùng Windows, nên giấc mơ RSS của mình bay đi luôn... Ngoài ra mình cũng dùng một số extension RSS trên trình duyệt (hình như trình duyệt Brave nó có tích hợp cả RSS reader luôn) nhưng mà mình thấy nó ngu quá nên cũng từ bỏ...
 
-Nhưng gần đây mình mới phát hiện ra là [Thunderbird](https://www.thunderbird.net/en-US/) cũng có hể dùng để đọc RSS feed. Nó là email client nhưng cũng có thể dùng để đọc RSS. Bạn có thể coi cách setup ở [đây](https://support.mozilla.org/en-US/kb/how-subscribe-news-feeds-and-blogs).
+Nhưng gần đây mình mới phát hiện ra là [Thunderbird](https://www.thunderbird.net/en-US/) cũng có thể dùng để đọc RSS feed. Nó là email client nhưng cũng có thể dùng để đọc RSS. Bạn có thể coi cách setup ở [đây](https://support.mozilla.org/en-US/kb/how-subscribe-news-feeds-and-blogs).
 
 Để có được link RSS của trang web thì bạn coi coi trang web có cái biểu tượng của RSS không, nếu không thì bạn `Ctrl + U` để coi source của web rồi `Ctrl + F` tìm kiếm `rss` hay là `.xml` thử, nếu không có thì trang web đó không có hỗ trợ RSS và bạn phải check web đó bằng tay 🥲.
 
