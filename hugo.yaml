@@ -91,8 +91,12 @@ params:
       url: "https://www.linkedin.com/in/ngntrgduc/"
     - name: facebook
       url: "https://facebook.com/nguyenduc1511"
+    - name: twitter
+      url: "https://twitter.com/ngntrgduc"
     - name: mastodon
       url: "https://mathstodon.xyz/@ngntrgduc"
+    - name: goodreads
+      url: "https://www.goodreads.com/ngntrgduc"
     - name: kofi
       title: Buy me a coffee
       url: "https://ko-fi.com/ngntrgduc"
