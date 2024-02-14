@@ -35,7 +35,7 @@ params:
   # hidemeta: true
   hideSummary: true
   showtoc: true
-  # tocopen: true
+  tocopen: true
   enableInlineShortcodes: true
   stickyHeader: true
 
