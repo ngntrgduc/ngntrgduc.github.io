@@ -108,8 +108,9 @@ Bên cạnh đó, có một số mapping mà mình ít xài như:
 - `<<`, `>>` Bê cái tab hiện tại qua bên trái, phải: Di chuyển bằng con trỏ chuột nhanh hơn.
 
 ### Vomnibar
+Bạn có thể dùng cái này để search Google, search lại lịch sử, search bookmark,... với những kết quả hiện ra thì sử dụng `Tab` để di chuyển...
 
-Lúc mới bắt đầu xài mình thấy cái này kiểu nhảm nhảm làm sao, cần gì một cái search bar của extension trong khi mình đã có cái search bar của browser rồi?. Nhưng đó là trước khi mình biết tới cái tính năng Custom search engines của nó.
+Lúc mới bắt đầu xài mình thấy cái này kiểu nhảm nhảm làm sao, cần gì một cái search bar của extension trong khi mình đã có cái search bar của browser rồi?. Nhưng đó là trước khi mình biết tới cái tính năng Custom [search engines](https://github.com/philc/vimium/wiki/Search-Engines) của nó.
 
 Lấy ví dụ cho dễ hiểu nè: Giả sử mình đang nghe nhạc trên Youtube, thấy bài đang nghe hay quá, mình muốn check thử coi trên Soundcloud có bài này không để like rồi nghe sau (vì Soundcloud không có ads). Thì mình phải mở tab mới, gõ trang chủ của soundcloud, nhấn Enter, đợi nó load, rồi vô cái search box, gõ tên của cái bài hát mình đang nghe trên Youtube, rồi nhấn Enter... Nhưng với Vomnibar và search engine, giờ mình chỉ cần mở nó lên bằng `o`, gõ `sc` (vì mình đặt cái này là shorcut cho Soundcloud), rồi gõ tên bài hát và nhấn Enter thì ngay lúc này mình đã có thể xem được bài hát đó có trên Soundcloud hay không rồi, rất tiết kiệm thời gian 😘.
 
@@ -144,6 +145,6 @@ Mình chỉnh scroll step size lên `80px` cho nhanh, characters sử dụng cho
 Và đôi lúc bạn không muốn dùng Vimium cho mấy trang web như Messenger,... thì bạn có thể exclude cái URL của nó hoặc chỉ exclude một số keys nhất định thôi. Ví dụ như với Youtube thì mình exclude `i><1234567890/m` vì nó cũng là phím tắt mặc định của Youtube, bạn có thể tìm hiểu thêm về phím tắt của Youtube [ở đây](https://www.mrfdev.com/youtube-keyboard-shortcuts).
 
 ## Lời kết
-Lời khuyên của mình là các bạn hãy cứ cài Vimium vô browser, sử dụng theo những cái mặc định trước, không cần thiết phải làm theo mình. Nếu thấy cái nào không cần thiết thì bạn cứ chỉnh sau cũng được.
+Lời khuyên của mình là các bạn hãy cứ cài Vimium vô browser, sử dụng theo những cái mặc định trước, không cần thiết phải làm theo mình. Nếu thấy cái nào không cần thiết thì bạn cứ chỉnh sau cũng được. Ngoài ra thì cái [Wiki của Vimium](https://github.com/philc/vimium/wiki) cũng khá là đầy đủ nếu bạn muốn tận dụng hết tính năng của nó.
 
 Nhìn chung thì Vimium tiết kiệm được cho mình khá nhiều thời gian, và mình mong rằng nó cũng sẽ tiết kiệm được thời gian cho bạn 💖.
