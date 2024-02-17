@@ -36,10 +36,10 @@ Ngoài ra còn nhiều tính năng khác nữa, bạn có thể tham khảo tạ
 
 ## Mình dùng nó như thế nào?
 
-Bạn có thể tìm thấy toàn bộ settings của mình [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850)
+Bạn có thể tìm thấy toàn bộ settings của mình [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850).
 
 ### Theme
-Cái theme mặc định của Vimium quá phèn nên mình tự custom theme. Theme của mình làm lấy theme [Catppuccin](https://github.com/catppuccin/catppuccin) làm chủ đạo. Catppuccin cũng có [repo cho Vimium](https://github.com/catppuccin/vimium/) nhưng nó làm mình bị đau mắt nên mình chỉnh lại cho mắt của mình đỡ đau
+Cái theme mặc định của Vimium quá phèn nên mình tự custom theme. Theme của mình làm lấy theme [Catppuccin](https://github.com/catppuccin/catppuccin) làm chủ đạo. Catppuccin cũng có [repo cho Vimium](https://github.com/catppuccin/vimium/) nhưng nó làm mình bị đau mắt nên mình chỉnh lại cho mắt của mình đỡ đau.
 
 - Mặc định
     ![](/vimium/f-default.png)
