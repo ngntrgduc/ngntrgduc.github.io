@@ -36,7 +36,7 @@ Ngoài ra còn nhiều tính năng khác nữa, bạn có thể tham khảo tạ
 
 ## Mình dùng nó như thế nào?
 
-Bạn có thể tìm thấy toàn bộ settings của mình [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850).
+Bạn có thể tìm thấy toàn bộ settings của mình [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850/710bf496112d68b09eb83d3b5ae9f026eef4215a) (phiên bản này sẽ cũ theo thời gian, nhưng bạn vẫn có thể coi được những phiên bản mới nhất trong gist này).
 
 ### Theme
 Cái theme mặc định của Vimium quá phèn nên mình tự custom theme. Theme của mình làm lấy theme [Catppuccin](https://github.com/catppuccin/catppuccin) làm chủ đạo. Catppuccin cũng có [repo cho Vimium](https://github.com/catppuccin/vimium/) nhưng nó làm mình bị đau mắt nên mình chỉnh lại cho mắt của mình đỡ đau.
@@ -52,7 +52,8 @@ Cái theme mặc định của Vimium quá phèn nên mình tự custom theme. T
     ![](/vimium/o-mine.png)
 
 
-Theme config của mình nằm [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850#file-vimium-theme-js). Nếu không thích thì bạn có thể lên GitHub để tìm theme có sẵn, hoặc bạn cũng có thể hardcore để tạo theme mà mình thích.
+Theme config của mình nằm [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850/710bf496112d68b09eb83d3b5ae9f026eef4215a#file-vimium-theme-js). 
+Nếu không thích thì bạn có thể lên GitHub để tìm theme có sẵn, hoặc bạn cũng có thể hardcore để tạo theme mà mình thích.
 
 ### Mapping
 **Note**: Mình sử dụng Firefox nên sẽ có những settings phù hợp với Firefox hơn là với Chrome, Edge,... Ví dụ như `/` sẽ mở Quick find trên Firefox, đồng thời nó giúp focus vô cái thanh search trên Youtube, nên mình sẽ unmap toàn bộ Find mode trong Vimium. Với lại dùng `Ctrl + f` cho nhanh đi mọi người 🙂.
@@ -99,7 +100,8 @@ Và nó sẽ như thế này (mình không xài `?` vì mình đã thuộc mấy
 
 Bên cạnh đó, có một số mapping mà mình ít xài như:
 - `i`: Kích hoạt insert mode: Insert mode trong Vimium là chế độ bạn có thể gõ gì cũng được mà không kích hoạt các phím tắt của nó. Thường thì khi đang focus vô cái thanh input thì Vimium sẽ không được kích hoạt
-- `gu` để lùi về 1 bậc URL và `gU` lùi về tới root của URL  của tab hiện tại (nói chung là mình cũng không biết phải diễn tả làm sao hết 🥲)
+- `gu` để lùi về 1 bậc URL và `gU` lùi về tới root của URL của tab hiện tại (nói chung là mình cũng không biết phải diễn tả làm sao hết 🥲).
+Ví dụ như mình đang ở tab `https://github.com/ngntrgduc/ngntrgduc.github.io`, thì `gU` sẽ chuyển tab hiện tại thành `https://github.com/` còn `gu` sẽ chỉ chuyển về `https://github.com/ngntrgduc/` thôi
 - `gf` Mở link ở tab mới và chuyển qua nó: Mình thưởng mở bằng `F` rồi dùng `K` để nhảy qua luôn
 - `yf` Copy link URL vào clipboard
 - `m` Create a new mark: Kiểu bạn đọc thấy cái phần ở giữa của cái blog hay quá, bạn muốn đọc xong blog thì quay lại đọc phần ở giữa này tiếp, thì cái tính năng mark này giúp bạn nhảy hẳn tới cái phần bạn vừa mark xong. Thường thì mình kiếm lại luôn chứ không có mark nó lại. Nhưng nó cũng hữu ích trong 1 số trường hợp.
