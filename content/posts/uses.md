@@ -2,7 +2,7 @@
 title:  "Những phần mềm, tiện ích mà mình dùng"
 date: 2022-08-28
 lastmod: 2022-09-17
-tags: ["random"]
+tags: ["use"]
 ---
 
 # Programming

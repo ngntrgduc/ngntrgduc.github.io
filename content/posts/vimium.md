@@ -1,7 +1,7 @@
 ---
 title: "Mình dùng Vimium thế nào?"
 date: 2024-02-14T11:01:28+07:00
-tags: ["extension", "tips and tricks"]
+tags: ["extension", "use"]
 ---
 
 ## Vimium?
@@ -36,7 +36,7 @@ Ngoài ra còn nhiều tính năng khác nữa, bạn có thể tham khảo tạ
 
 ## Mình dùng nó như thế nào?
 
-Bạn có thể tìm thấy toàn bộ settings của mình [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850/710bf496112d68b09eb83d3b5ae9f026eef4215a) (phiên bản này sẽ cũ theo thời gian, nhưng bạn vẫn có thể coi được những phiên bản mới nhất trong gist này).
+Bạn có thể tìm thấy toàn bộ settings của mình [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850/710bf496112d68b09eb83d3b5ae9f026eef4215a) (phiên bản này sẽ cũ theo thời gian, nhưng bạn vẫn có thể coi được những phiên bản mới nhất trong gist này), với những tuỳ chỉnh phù hợp với nhu cầu của mình, bạn đọc kĩ hướng dẫn sử dụng trước khi dùng nhé.
 
 ### Theme
 Cái theme mặc định của Vimium quá phèn nên mình tự custom theme. Theme của mình làm lấy theme [Catppuccin](https://github.com/catppuccin/catppuccin) làm chủ đạo. Catppuccin cũng có [repo cho Vimium](https://github.com/catppuccin/vimium/) nhưng nó làm mình bị đau mắt nên mình chỉnh lại cho mắt của mình đỡ đau.
@@ -53,12 +53,12 @@ Cái theme mặc định của Vimium quá phèn nên mình tự custom theme. T
 
 
 Theme config của mình nằm [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850/710bf496112d68b09eb83d3b5ae9f026eef4215a#file-vimium-theme-js). 
-Nếu không thích thì bạn có thể lên GitHub để tìm theme có sẵn, hoặc bạn cũng có thể hardcore để tạo theme mà mình thích.
+Nếu không thích thì bạn có thể lên GitHub để tìm [theme có sẵn](https://github.com/philc/vimium/wiki/Theme), hoặc bạn cũng có thể hardcore để tạo theme mà mình thích.
 
 ### Mapping
 **Note**: Mình sử dụng Firefox nên sẽ có những settings phù hợp với Firefox hơn là với Chrome, Edge,... Ví dụ như `/` sẽ mở Quick find trên Firefox, đồng thời nó giúp focus vô cái thanh search trên Youtube, nên mình sẽ unmap toàn bộ Find mode trong Vimium. Với lại dùng `Ctrl + f` cho nhanh đi mọi người 🙂.
 
-Có nhiều mapping không cần thiết nên mình đã unmap nó, và mapping lại 1 số keys cho phù hợp với nhu cầu của mình hơn:
+Có nhiều mapping không cần thiết nên mình đã unmap nó, và mapping lại 1 số keys:
 ```
 unmap <c-e>
 unmap <c-y>

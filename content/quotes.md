@@ -21,3 +21,5 @@ title:  "Random quotes"
 > "Today is the first day of the rest of your life" - Elon Musk
 
 > "If you can't do great things, do small things in a great way." - Napoleon Hill
+
+> "The only reason a warrior is alive is to fight, and the only reason a warrior fights is to win" - Miyamoto Musashi

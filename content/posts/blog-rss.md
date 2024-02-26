@@ -1,7 +1,7 @@
 ---
 title: "Đọc blog với RSS"
 date: 2023-09-05T23:42:11+07:00
-tags: ["random"]
+tags: ["rss"]
 ---
 
 ![](https://images.ctfassets.net/lzny33ho1g45/1M3ZeUX3Y002aMRN6EGzlb/231459741e1ced7c42ad306098572f9d/rss_hero_image.png "icon RSS như này nè")
