@@ -1,6 +1,6 @@
 baseURL: "https://ngntrgduc.github.io/"
 title: ngntrgduc
-paginate: 10
+paginate: 20
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -22,10 +22,10 @@ params:
   # DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   # disableThemeToggle: false
-  # ShowReadingTime: true
+  ShowReadingTime: true
   # ShowShareButtons: true
   # ShowPostNavLinks: true
-  # ShowBreadCrumbs: false
+  # ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   # ShowWordCount: true
   ShowRssButtonInSectionTermList: true
