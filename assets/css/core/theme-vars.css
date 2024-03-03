@@ -52,3 +52,12 @@ a:hover{
 button:hover {
     color: rgb(4, 165, 229);
 }
+
+blockquote {
+    font-style: italic;
+    color: #04a5e5;
+}
+
+.dark blockquote {
+    color: #89dceb;
+}
