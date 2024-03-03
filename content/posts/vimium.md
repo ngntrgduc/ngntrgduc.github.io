@@ -51,9 +51,9 @@ bạn đọc kĩ hướng dẫn sử dụng trước khi dùng nhé.
 ### Theme
 Cái theme mặc định của Vimium quá phèn nên mình tự custom theme.  Theme của mình
 làm lấy theme [Catppuccin](https://github.com/catppuccin/catppuccin) làm chủ đạo
-(Vâng mình là fan của Catppuccin 😸). Catppuccin cũng có [repo cho
-Vimium](https://github.com/catppuccin/vimium/) nhưng nó làm mình bị đau mắt nên
-mình chỉnh lại cho mắt của mình đỡ đau.
+(Vâng mình là fan của Catppuccin 😸, cả cái blog này cũng có theme Catppuccin). 
+Catppuccin cũng có [repo cho Vimium](https://github.com/catppuccin/vimium/) 
+nhưng nó làm mình bị đau mắt nên mình chỉnh lại cho mắt của mình đỡ đau.
 
 - Mặc định
     ![](/vimium/f-default.png)
@@ -137,9 +137,9 @@ rồi nghe sau (vì Soundcloud không có ads). Thì mình phải mở tab mới
 chủ của soundcloud, nhấn Enter, đợi nó load, rồi vô cái search box, gõ tên của
 cái bài hát mình đang nghe trên Youtube, rồi nhấn Enter... Nhưng với Vomnibar và
 search engine, giờ mình chỉ cần mở nó lên bằng `o`, gõ `sc` (vì mình đặt cái này
-là shorcut cho Soundcloud), rồi gõ tên bài hát và nhấn Enter thì ngay lúc này
-mình đã có thể xem được bài hát đó có trên Soundcloud hay không rồi, rất tiết
-kiệm thời gian 😘.
+là shorcut cho Soundcloud), nhấn space để kích hoạt search engine, gõ tên bài
+hát và nhấn Enter thì ngay lúc này mình đã có thể xem được bài hát đó có trên 
+Soundcloud hay không rồi, rất tiết kiệm thời gian 😘.
 
 Nó còn làm được nhiều thứ hơn ví dụ như là search từ vựng các kiểu nữa cơ. Nói chung là phải dùng thì mới thấy được sự tiện lợi của nó.
 

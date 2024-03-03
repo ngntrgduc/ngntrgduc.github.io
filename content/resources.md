@@ -87,5 +87,5 @@ Hồi xưa mình cũng có nghịch 1 chút bên mảng này...
 - [How to read a paper, S. Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [So You're Starting a PhD?](https://web.engr.oregonstate.edu/~rosulekm/advising.html)
 - [Andrej Karpathy - A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
-- [Applying to Ph.D. Programs in Computer Science Mor Harchol-Balter - CMU]()
+- [Applying to Ph.D. Programs in Computer Science, Mor Harchol-Balter - CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 - https://franknielsen.github.io/Books/CuratedBookLists.html
