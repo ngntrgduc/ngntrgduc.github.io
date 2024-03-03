@@ -5,12 +5,19 @@ tags: ["extension", "use"]
 ---
 
 ## Vimium?
-[Vimium](https://vimium.github.io/) là một open source extension giúp bạn duyệt web mà không cần chuột, và tuỳ chỉnh các phím tắt của riêng bạn khi duyệt web.
+[Vimium](https://vimium.github.io/) là một open source extension giúp bạn duyệt
+web mà không cần chuột, và tuỳ chỉnh các phím tắt của riêng bạn khi duyệt web.
 
-Mặc dù Vimium lấy ý tưởng các phím tắt từ Vim - text editor dành cho dân coder, nhưng mình thấy mọi người đều có thể sử dụng, tuỳ chỉnh theo ý thích của mình.
+Mặc dù Vimium lấy ý tưởng các phím tắt từ Vim - text editor dành cho dân coder,
+nhưng mình thấy mọi người đều có thể sử dụng, tuỳ chỉnh theo ý thích của mình. 
+Chỉ là với những người biết xài Vim rồi thì xài Vimium sẽ quen tay hơn thôi.
 
 ## Lý do xài
-Do hồi xưa con chuột của mình bị hư, trackpad của em laptop "giả" gaming (ý mình là nó nặng như con laptop gaming) Core i3 RAM 4GB đã cũ, không còn mượt, và mình cũng mới tập tành Vim nên tín hiệu vũ trụ đưa mình tới cái extension này. Xài được một thời gian thì thấy nó tiện phết, nhất là với mấy đứa không xài chuột như mình.
+Do hồi xưa con chuột của mình bị hư, trackpad của em laptop "giả" gaming (ý mình
+là nó nặng như con laptop gaming) Core i3 RAM 4GB đã cũ, không còn mượt, và mình
+cũng mới tập tành Vim nên tín hiệu vũ trụ đưa mình tới cái extension này. Xài
+được một thời gian thì thấy nó tiện phết, nhất là với mấy đứa không xài chuột
+như mình.
 
 
 ## Những tính năng
@@ -36,10 +43,17 @@ Ngoài ra còn nhiều tính năng khác nữa, bạn có thể tham khảo tạ
 
 ## Mình dùng nó như thế nào?
 
-Bạn có thể tìm thấy toàn bộ settings của mình [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850/710bf496112d68b09eb83d3b5ae9f026eef4215a) (phiên bản này sẽ cũ theo thời gian, nhưng bạn vẫn có thể coi được những phiên bản mới nhất trong gist này), với những tuỳ chỉnh phù hợp với nhu cầu của mình, bạn đọc kĩ hướng dẫn sử dụng trước khi dùng nhé.
+Bạn có thể tìm thấy toàn bộ settings của mình [ở đây](https://gist.github.com/ngntrgduc/56466d9bb66b2d2a7a27d42442a99850/710bf496112d68b09eb83d3b5ae9f026eef4215a)
+(phiên bản này sẽ cũ theo thời gian, nhưng bạn vẫn có thể coi được những phiên
+bản mới nhất trong gist này), với những tuỳ chỉnh phù hợp với nhu cầu của mình,
+bạn đọc kĩ hướng dẫn sử dụng trước khi dùng nhé.
 
 ### Theme
-Cái theme mặc định của Vimium quá phèn nên mình tự custom theme. Theme của mình làm lấy theme [Catppuccin](https://github.com/catppuccin/catppuccin) làm chủ đạo. Catppuccin cũng có [repo cho Vimium](https://github.com/catppuccin/vimium/) nhưng nó làm mình bị đau mắt nên mình chỉnh lại cho mắt của mình đỡ đau.
+Cái theme mặc định của Vimium quá phèn nên mình tự custom theme.  Theme của mình
+làm lấy theme [Catppuccin](https://github.com/catppuccin/catppuccin) làm chủ đạo
+(Vâng mình là fan của Catppuccin 😸). Catppuccin cũng có [repo cho
+Vimium](https://github.com/catppuccin/vimium/) nhưng nó làm mình bị đau mắt nên
+mình chỉnh lại cho mắt của mình đỡ đau.
 
 - Mặc định
     ![](/vimium/f-default.png)
@@ -110,11 +124,22 @@ Ví dụ như mình đang ở tab `https://github.com/ngntrgduc/ngntrgduc.github
 - `<<`, `>>` Bê cái tab hiện tại qua bên trái, phải: Di chuyển bằng con trỏ chuột nhanh hơn.
 
 ### Vomnibar
-Bạn có thể dùng cái này để search Google, search lại lịch sử, search bookmark,... với những kết quả hiện ra thì sử dụng `Tab` để di chuyển...
+Bạn có thể dùng cái này để search Google, search lại lịch sử, search bookmark,... 
+với những kết quả hiện ra thì sử dụng `Tab` để di chuyển...
 
-Lúc mới bắt đầu xài mình thấy cái này kiểu nhảm nhảm làm sao, cần gì một cái search bar của extension trong khi mình đã có cái search bar của browser rồi?. Nhưng đó là trước khi mình biết tới cái tính năng Custom [search engines](https://github.com/philc/vimium/wiki/Search-Engines) của nó.
+Lúc mới bắt đầu xài mình thấy cái này kiểu nhảm nhảm làm sao, cần gì một cái
+search bar của extension trong khi mình đã có cái search bar của browser rồi?.
+Nhưng đó là trước khi mình biết tới cái tính năng Custom [search engines](https://github.com/philc/vimium/wiki/Search-Engines) của nó.
 
-Lấy ví dụ cho dễ hiểu nè: Giả sử mình đang nghe nhạc trên Youtube, thấy bài đang nghe hay quá, mình muốn check thử coi trên Soundcloud có bài này không để like rồi nghe sau (vì Soundcloud không có ads). Thì mình phải mở tab mới, gõ trang chủ của soundcloud, nhấn Enter, đợi nó load, rồi vô cái search box, gõ tên của cái bài hát mình đang nghe trên Youtube, rồi nhấn Enter... Nhưng với Vomnibar và search engine, giờ mình chỉ cần mở nó lên bằng `o`, gõ `sc` (vì mình đặt cái này là shorcut cho Soundcloud), rồi gõ tên bài hát và nhấn Enter thì ngay lúc này mình đã có thể xem được bài hát đó có trên Soundcloud hay không rồi, rất tiết kiệm thời gian 😘.
+Lấy ví dụ cho dễ hiểu nè: Giả sử mình đang nghe nhạc trên Youtube, thấy bài đang
+nghe hay quá, mình muốn check thử coi trên Soundcloud có bài này không để like
+rồi nghe sau (vì Soundcloud không có ads). Thì mình phải mở tab mới, gõ trang
+chủ của soundcloud, nhấn Enter, đợi nó load, rồi vô cái search box, gõ tên của
+cái bài hát mình đang nghe trên Youtube, rồi nhấn Enter... Nhưng với Vomnibar và
+search engine, giờ mình chỉ cần mở nó lên bằng `o`, gõ `sc` (vì mình đặt cái này
+là shorcut cho Soundcloud), rồi gõ tên bài hát và nhấn Enter thì ngay lúc này
+mình đã có thể xem được bài hát đó có trên Soundcloud hay không rồi, rất tiết
+kiệm thời gian 😘.
 
 Nó còn làm được nhiều thứ hơn ví dụ như là search từ vựng các kiểu nữa cơ. Nói chung là phải dùng thì mới thấy được sự tiện lợi của nó.
 
@@ -142,11 +167,25 @@ mw: "https://www.merriam-webster.com/dictionary/%s Merriam-Webster
 ```
 
 ### Một số thứ khác
-Mình chỉnh scroll step size lên `80px` cho nhanh, characters sử dụng cho link hints là `sdfghjkl` vì mấy đứa này nằm trên home row, dễ gõ, và mình bỏ `a` vì `a` gõ thêm `s`, `f`, `j` trong chế độ Telex nó sẽ ra `á`, `à`, `ạ`, và sẽ không thể thực hiện tiếp link hint 🥲. Điều tương tự cũng xảy ra với Vomnibar (`o`), lúc này bạn có thể xoá đi rồi gõ lại (giống như Soundcloud là `sc`, mình mở Vomnibar lên xong phải xoá đi rồi mới gõ tiếp `sc` chứ không nó sẽ ra chữ `óc` 🥲), hoặc là bạn có thể đặt 1 cái shortcut khác để mở Vomnibar, hoặc là chuyển qua VNI...
+Mình chỉnh scroll step size lên `80px` cho nhanh, characters sử dụng cho link
+hints là `sdfghjkl` vì mấy đứa này nằm trên home row, dễ gõ, và mình bỏ `a` vì
+`a` gõ thêm `s`, `f`, `j` trong chế độ Telex nó sẽ ra `á`, `à`, `ạ`, và sẽ không
+thể thực hiện tiếp link hint 🥲. Điều tương tự cũng xảy ra với Vomnibar (`o`),
+lúc này bạn có thể xoá đi rồi gõ lại (giống như Soundcloud là `sc`, mình mở
+Vomnibar lên xong phải xoá đi rồi mới gõ tiếp `sc` chứ không nó sẽ ra chữ `óc`
+🥲), hoặc là bạn có thể đặt 1 cái shortcut khác để mở Vomnibar, hoặc là chuyển
+qua VNI...
 
-Và đôi lúc bạn không muốn dùng Vimium cho mấy trang web như Messenger,... thì bạn có thể exclude cái URL của nó hoặc chỉ exclude một số keys nhất định thôi. Ví dụ như với Youtube thì mình exclude `i><1234567890/m` vì nó cũng là phím tắt mặc định của Youtube, bạn có thể tìm hiểu thêm về phím tắt của Youtube [ở đây](https://www.mrfdev.com/youtube-keyboard-shortcuts).
+Và đôi lúc bạn không muốn dùng Vimium cho mấy trang web như Messenger,... thì
+bạn có thể exclude cái URL của nó hoặc chỉ exclude một số keys nhất định thôi.
+Ví dụ như với Youtube thì mình exclude `i><1234567890/m` vì nó cũng là phím tắt
+mặc định của Youtube, bạn có thể tìm hiểu thêm về phím tắt của Youtube [ở đây](https://www.mrfdev.com/youtube-keyboard-shortcuts).
 
 ## Lời kết
-Lời khuyên của mình là các bạn hãy cứ cài Vimium vô browser, sử dụng theo những cái mặc định trước, không cần thiết phải làm theo mình. Nếu thấy cái nào không cần thiết thì bạn cứ chỉnh sau cũng được. Ngoài ra thì cái [Wiki của Vimium](https://github.com/philc/vimium/wiki) cũng khá là đầy đủ nếu bạn muốn tận dụng hết tính năng của nó.
+Lời khuyên của mình là các bạn hãy cứ cài Vimium vô browser, sử dụng theo những
+cái mặc định trước, không cần thiết phải làm theo mình. Nếu thấy cái nào không
+cần thiết thì bạn cứ chỉnh sau cũng được. Ngoài ra thì cái [Wiki của Vimium](https://github.com/philc/vimium/wiki) cũng khá là đầy đủ nếu bạn muốn
+tận dụng hết tính năng của nó.
 
-Nhìn chung thì Vimium tiết kiệm được cho mình khá nhiều thời gian, và mình mong rằng nó cũng sẽ tiết kiệm được thời gian cho bạn 💖.
+Nhìn chung thì Vimium tiết kiệm được cho mình khá nhiều thời gian, và mình mong
+rằng nó cũng sẽ tiết kiệm được thời gian cho bạn 💖.

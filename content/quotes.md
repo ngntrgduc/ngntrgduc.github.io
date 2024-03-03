@@ -1,5 +1,6 @@
 ---
 title:  "Random quotes"
+ShowReadingTime: false
 ---
 
 > "Good things take time."

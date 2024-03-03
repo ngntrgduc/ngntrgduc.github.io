@@ -1,6 +1,7 @@
 ---
 title: "About me"
 showtoc: false
+ShowReadingTime: false
 ---
 
 Hi 🐧. I'm currently a junior majoring in Mathematics and Computer Science at 
