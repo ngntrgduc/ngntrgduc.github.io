@@ -89,3 +89,5 @@ Hồi xưa mình cũng có nghịch 1 chút bên mảng này...
 - [Andrej Karpathy - A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 - [Applying to Ph.D. Programs in Computer Science, Mor Harchol-Balter - CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 - https://franknielsen.github.io/Books/CuratedBookLists.html
+- https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli
+- https://pythonspeed.com/: Write faster Python code
