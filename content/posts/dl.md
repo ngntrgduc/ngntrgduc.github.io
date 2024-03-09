@@ -1,7 +1,7 @@
 ---
 title: "Từ bỏ Deep learning"
 date: 2024-03-09T10:11:33+07:00
-tags: ["deep learning"]
+tags: ["life", "deep learning"]
 # draft: true
 ---
 
