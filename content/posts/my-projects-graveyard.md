@@ -18,7 +18,10 @@ From now on, I will attempt to write in English. Because I need to practice my w
 No more procrastination.
 
 - Why it died?
-    - I used this to block myself from wasting time on Facebook, Instagram,... But now I use Firefox for work/learn, and a different browser (Edge) just for social media. Using multiple browsers makes me feel more focused.
+    - I used this to block myself from wasting time on Facebook, Instagram,... 
+    But now I use Firefox for work/learn, and a different browser just for 
+    social media. Using multiple browsers makes me feel more focused
+    - Too lazy to make an option feature for the extension
 
 - What did I learn?
     - Time in JS

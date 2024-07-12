@@ -37,6 +37,8 @@ ShowReadingTime: false
 - [Learn Latex in 30 minutes - Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - https://github.com/ncase/trust
 - https://ncatlab.org/nlab/show/mathematics
+- https://nhigham.com/index-of-what-is-articles/
+
 
 # AI-ML-DL
 
@@ -54,20 +56,11 @@ ShowReadingTime: false
 - [Machine Learning Research Blog - Francis Bach](https://francisbach.com/)
 - [100 Lectures on Machine Learning](https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/)
 
-### Misc.
+## Misc
 - [Google Colab Tips for Power Users ](https://amitness.com/2020/06/google-colaboratory-tips/)
 
 
-# Blogroll
-- [Góc nhỏ của $\vec{K}$](https://balldk.github.io/)
-- https://lukesmith.xyz/
-- https://ericmurphy.xyz/
-- https://lilianweng.github.io/
-- https://www.countbayesie.com/
-- https://notes.huy.rocks/
-- https://lnhutnam.github.io/
-
-# CS
+# Computer Science
 Hồi xưa mình cũng có nghịch 1 chút bên mảng này...
 
 - Coding challenge: [Project Euler](https://projecteuler.net/about), [Codewars](https://www.codewars.com),...
@@ -80,6 +73,21 @@ Hồi xưa mình cũng có nghịch 1 chút bên mảng này...
 - https://github.com/mhinz/vim-galore: All things Vim!
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - [cbeams - How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+- https://cp-algorithms.com/: Algorithms for Competitive Programming
+- [calmcode.io](https://calmcode.io/): Learn Python the easy way
+- https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide
+
+# Blogroll
+- https://balldk.github.io/
+- https://lukesmith.xyz/
+- https://ericmurphy.xyz/
+- https://lilianweng.github.io/
+- https://www.countbayesie.com/
+- https://notes.huy.rocks/
+- https://lnhutnam.github.io/
+- https://quan.hoabinh.vn/
+<!-- - https://jalsol.github.io/blog/ -->
+
 
 # Misc
 - [MIT OpenCourseWare](https://ocw.mit.edu/search/): I'm lost 🥲
@@ -91,3 +99,9 @@ Hồi xưa mình cũng có nghịch 1 chút bên mảng này...
 - https://franknielsen.github.io/Books/CuratedBookLists.html
 - https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli
 - https://pythonspeed.com/: Write faster Python code
+- [Monster Box](https://mbpedia.com/vi)
+- https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html
+- https://imissmycafe.com/: ☕
+- https://python-graph-gallery.com/
+- https://www.readthistwice.com/
+- https://www.privacyguides.org/
