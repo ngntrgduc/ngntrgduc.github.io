@@ -37,27 +37,27 @@
     background: var(--theme);
 }
 
-.dark a:hover{
-    color: rgb(137, 220, 235);
-}
-
 a:hover{
-    color: rgb(4, 165, 229);
+    color: #1e66f5;
 }
 
-.dark button:hover {
-    color: rgb(137, 220, 235);
+.dark a:hover{
+    color: #89b4fa;
 }
 
 button:hover {
-    color: rgb(4, 165, 229);
+    color: #1e66f5;
+}
+
+.dark button:hover {
+    color: #89b4fa;
 }
 
 blockquote {
     font-style: italic;
-    color: #04a5e5;
+    color: #1e66f5;
 }
 
 .dark blockquote {
-    color: #89dceb;
+    color: #89b4fa;
 }
