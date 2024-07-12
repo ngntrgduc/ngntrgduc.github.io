@@ -17,7 +17,7 @@ params:
   title: ngntrgduc
   # description: "ngntrgduc's space"
   keywords: [ngntrgduc]
-  # author: 
+  # author:
   # images: /avatar.jpg
   # DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -74,7 +74,7 @@ params:
   #     - name: Search 🔎
   #       url: search
 
-  
+
 
   # home-info mode
   homeInfoParams:
@@ -91,11 +91,11 @@ params:
       title: LinkedIn
       url: "https://www.linkedin.com/in/ngntrgduc/"
     - name: facebook
-      url: "https://facebook.com/nguyenduc1511"
+      url: "https://www.facebook.com/ngntrgduc/"
     - name: twitter
       url: "https://twitter.com/ngntrgduc"
-    - name: mastodon
-      url: "https://mathstodon.xyz/@ngntrgduc"
+    # - name: mastodon
+    #   url: "https://mathstodon.xyz/@ngntrgduc"
     - name: goodreads
       url: "https://www.goodreads.com/ngntrgduc"
     - name: kofi
@@ -104,7 +104,7 @@ params:
     - name: rss
       title: RSS
       url: "https://ngntrgduc.github.io/index.xml"
-    
+
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -257,26 +257,30 @@ languages:
           name: CV
           url: https://ngntrgduc.github.io/cv
           weight: 4
+        - identifier: uses
+          name: Uses
+          url: /uses/
+          weight: 5
         - identifier: resources
           name: Resources
           url: /resources/
-          weight: 5
+          weight: 6
         - identifier: archives
           name: 📦
           title: Archive
           url: /archives/
-          weight: 6
+          weight: 7
         - identifier: tags
           name: 🏷️
           title: Tags
           url: /tags/
-          weight: 7
+          weight: 8
         - identifier: search
           name: 🔎
           title: Search
           url: /search/
-          weight: 8
-  
+          weight: 9
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
