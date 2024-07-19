@@ -14,7 +14,7 @@ minify:
 
 params:
   title: ngntrgduc
-  # description: "ngntrgduc's space"
+  description: "ngntrgduc's space"
   keywords: [ngntrgduc]
   # author:
   # images: /avatar.jpg
@@ -50,7 +50,7 @@ params:
 
   label:
     text: "ngntrgduc's space"
-    icon: /avatar.jpg
+    # icon: /avatar.jpg
     iconHeight: 30
 
   # profile-mode
