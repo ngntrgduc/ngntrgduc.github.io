@@ -12,36 +12,19 @@ From now on, I will attempt to write in English. Because I need to practice my w
 
 ---
 
-# get-shit-done
-[Link](https://github.com/ngntrgduc/get-shit-done).
-
-No more procrastination.
-
-- Why it died?
-    - I used this to block myself from wasting time on Facebook, Instagram,... 
-    But now I use Firefox for work/learn, and a different browser just for 
-    social media. Using multiple browsers makes me feel more focused
-    - Too lazy to make an option feature for the extension
-
-- What did I learn?
-    - Time in JS
-    - F*ck social media
-
-
 # Script loader extension
 
 ![](/projects_graveyard/script.png)
 
-It's an extension that loads JS script for multiple websites. I found 
+It's an browser extension that loads JS script for multiple websites. I found 
 some websites are not clutter-free, so I use JS to hide it from the website.
 
 - Why it died?
-    - I found [Tampermonkey](https://www.tampermonkey.net/) and 
-    [uBlock Origin](https://ublockorigin.com), which makes the process less redundant
+    - I found out [Tampermonkey](https://www.tampermonkey.net/) + [uBlock Origin](https://ublockorigin.com), work like a charm
 
 - What did I learn?
-    - Learn how the content_script works in extension
-    - There's always has better version of your project 🥲
+    - Learn how the `content_script` works in extension
+    - There's always has a better version of your project 🥲
 
 
 # pastematic
