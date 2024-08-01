@@ -12,7 +12,7 @@ From now on, I will attempt to write in English. Because I need to practice my w
 
 ---
 
-# Script loader extension
+## Script loader extension
 
 ![](/projects_graveyard/script.png)
 
@@ -27,7 +27,7 @@ some websites are not clutter-free, so I use JS to hide it from the website.
     - There's always has a better version of your project 🥲
 
 
-# pastematic
+## pastematic
 
 ![](/projects_graveyard/pastematic.png)
 

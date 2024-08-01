@@ -43,14 +43,13 @@ ShowReadingTime: false
 # AI-ML-DL
 
 ## Resources
-- [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course)
 - [Mathematics for Machine Learning book](https://mml-book.github.io/)
 - [Full Stack Deep Learning Courses](https://fullstackdeeplearning.com/course/)
+- [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course)
 - [Machine Learning Glossary - Google](https://developers.google.com/machine-learning/glossary)
 
 ## Sites/Blogs
 - [Distill](https://distill.pub/)
-- [Machine Learning Grossary - Google](https://developers.google.com/machine-learning/glossary)
 - https://kidger.site/: [Just know stuff. (Or, how to achieve success in a machine learning PhD.)](https://kidger.site/thoughts/just-know-stuff/)
 - [Off the Convex Path](http://www.offconvex.org/)
 - [Machine Learning Research Blog - Francis Bach](https://francisbach.com/)
@@ -86,7 +85,8 @@ Hồi xưa mình cũng có nghịch 1 chút bên mảng này...
 - https://notes.huy.rocks/
 - https://lnhutnam.github.io/
 - https://quan.hoabinh.vn/
-<!-- - https://jalsol.github.io/blog/ -->
+- https://jalsol.github.io/blog/
+- https://www.nayuki.io/
 
 
 # Misc

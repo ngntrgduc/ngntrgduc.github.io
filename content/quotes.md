@@ -18,3 +18,5 @@ ShowReadingTime: false
 > "If you can't do great things, do small things in a great way." - Napoleon Hill
 
 > "The only reason a warrior is alive is to fight, and the only reason a warrior fights is to win" - Miyamoto Musashi
+
+> "A goal without a plan is just a dream."
