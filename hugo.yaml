@@ -1,6 +1,6 @@
 baseURL: "https://ngntrgduc.github.io/"
 title: ngntrgduc
-paginate: 20
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
