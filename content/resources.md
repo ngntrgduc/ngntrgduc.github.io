@@ -5,7 +5,6 @@ tocopen: true
 ShowReadingTime: false
 ---
 - Đây là trang lưu trữ một số nguồn tài liệu mà mình thấy hay hay
-- Bạn có thể đọc docs của mình [ở đây](https://ngntrgduc.github.io/docs/) (dead 🥲)
 - [Random quotes](/quotes)
 
 ## Mathematics
