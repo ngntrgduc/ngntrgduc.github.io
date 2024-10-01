@@ -4,10 +4,9 @@ ShowReadingTime: false
 ---
 
 - Là sinh viên năm cuối (?), ngành Toán - Tin tại trường Đại học Khoa học Tự nhiên, ĐHQG - TP.HCM
-- Đau khổ với: 
-- Tuyệt vọng với: ️
-- Chạy Deadline 🥲, nếu không chạy deadline thì mình sẽ tìm thứ gì đó để nghịch.
+- Đau khổ với: Trực quan hoá dữ liệu, Toán tài chính căn bản, Lý thuyết tài chính tiền tệ, Numerical Optimization, Seminar
+- Chạy Deadline 🥲, nếu không chạy deadline thì mình sẽ tìm thứ gì đó để học.
 
 ---
 
-Cập nhật lần cuối vào //2024.
+Cập nhật lần cuối vào 9/2024.

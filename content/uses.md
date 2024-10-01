@@ -8,7 +8,7 @@ ShowReadingTime: false
 ## Programming
 - Text editor
     - [VS Code](https://code.visualstudio.com/)
-    - [Notepad++](https://notepad-plus-plus.org/): Edit nhanh hay xem những file lớn)
+    - [Notepad++](https://notepad-plus-plus.org/): Edit nhanh hay xem những file lớn
     - [Neovim](https://neovim.io/): Khi mình xài terminal hoặc WSL
 - Theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
 - Font: `JetBrainsMono Nerd Font`

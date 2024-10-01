@@ -9,6 +9,35 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 
 ---
 
+<!-- ### Tháng /2024
+#### Đọc
+
+#### Xem -->
+
+### Tháng 9/2024
+#### Đọc
+- [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/)
+- https://www.data-to-viz.com/caveats.html: A collection of dataviz caveats
+- [The Left-Digit Effect](https://www.psychologytoday.com/us/blog/mind-games/201306/the-left-digit-effect-why-game-prices-end-in-99)
+- Mấy bài trên:
+    - https://mlabonne.github.io/blog/
+        - [Efficiently iterating over rows in a Pandas DataFrame](https://mlabonne.github.io/blog/posts/2022-03-21-Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.html)
+    - [Articles: Production-ready Docker packaging for Python developers](https://pythonspeed.com/docker/)
+
+
+#### Xem
+- [Có con người sống mà như qua đời | Vì sao thế nhỉ!](https://youtu.be/4qy8dM3lLqc?si=wDBI_zV5bw6K318W)
+- [Và tình yêu làm cuộc đời ngân vang tiếng hát | Vì sao thế nhỉ!](https://www.youtube.com/watch?v=YTFDC_zdLzM)
+- [Every PSYCHOLOGICAL Mind Trap Explained in 13 Minutes](https://youtu.be/MChqrjv4YFI?si=U3AD3PWLY-8JfMg9)
+- [series: Tư duy, Nhanh và Chậm | Duy Thanh Nguyen](https://youtu.be/s0nEcXcMdKg?si=q3Y0Hn_ojsCRkLZc)
+- [Why Japan Loves Small Things](https://youtu.be/CPKjnJ4oi4k?si=Wab478yW2Myn4MJl)
+- [The Cult of Productivity](https://youtu.be/cTMTZ7PAMYE?si=IyqJZJLNAc7tsliC)
+- Tài Chính 101 | [Cổ Phiếu (Stock)](https://www.youtube.com/watch?v=CdCHJdRPAhU), [Trái Phiếu (Bond)](https://www.youtube.com/watch?v=D31HDgSnEi4), [Chứng Chỉ Quỹ](https://www.youtube.com/watch?v=SHh__otke6Q)
+- Vài video của:
+    - [The Paint Explainer](https://www.youtube.com/@ThePaintExplainer/videos)
+- Phim: Death's game
+
+
 ### Tháng 8/2024
 #### Đọc
 - [Rules of Machine Learning | Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
