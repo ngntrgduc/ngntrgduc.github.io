@@ -106,3 +106,4 @@ ShowReadingTime: false
 - https://www.readthistwice.com/: Looking for a book to read?
 - https://www.privacyguides.org/
 - [Nobody cares about your blog.](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
+- https://thetoobluescientist.com/

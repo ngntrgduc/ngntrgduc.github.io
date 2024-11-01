@@ -14,12 +14,29 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 
 #### Xem -->
 
+
+### Tháng 10/2024
+#### Đọc
+- [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
+- [What is Machine Learning? | Quanta Magazine](https://www.quantamagazine.org/what-is-machine-learning-20240708/)
+- Vài bài trên Spiderum:
+    - [Làm Sao Để Viết Chính Xác](https://spiderum.com/bai-dang/Lam-Sao-De-Viet-Chinh-Xac-X6mtdPedghJH)
+    - [Ra Trường Đi Làm Mình Thấy Gì](https://spiderum.com/bai-dang/Ra-Truong-Di-Lam-Minh-Thay-Gi-10ne)
+    - [Tôi Không Mong Con Tôi Báo Hiếu Với Mình](https://spiderum.com/bai-dang/Toi-Khong-Mong-Con-Toi-Bao-Hieu-Voi-Minh-E5MHsSd2v76H)
+    - [Sổ tay du lịch vào thế giới tài chính](https://spiderum.com/bai-dang/So-tay-du-lich-vao-the-gioi-tai-chinh-CN8inFuTT3VS)
+
+#### Xem
+- [The better way to do statistics](https://www.youtube.com/watch?v=3jP4H0kjtng)
+- [PiMA Podcast Tháng 10: Thành công ở các cuộc thi Toán olympic và con đường tương lai](https://www.youtube.com/watch?v=P5DnqxPJTyE)
+- Phim: See you in my 19th life
+
+
 ### Tháng 9/2024
 #### Đọc
 - [What to consider when choosing colors for data visualization](https://blog.datawrapper.de/colors/)
 - https://www.data-to-viz.com/caveats.html: A collection of dataviz caveats
 - [The Left-Digit Effect](https://www.psychologytoday.com/us/blog/mind-games/201306/the-left-digit-effect-why-game-prices-end-in-99)
-- Mấy bài trên:
+- Vài bài trên:
     - https://mlabonne.github.io/blog/
         - [Efficiently iterating over rows in a Pandas DataFrame](https://mlabonne.github.io/blog/posts/2022-03-21-Efficiently_iterating_over_rows_in_a_Pandas_DataFrame.html)
     - [Articles: Production-ready Docker packaging for Python developers](https://pythonspeed.com/docker/)
@@ -47,7 +64,7 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 - [Data Viz Project](https://datavizproject.com/), 
 - [A guide to learn bash](https://github.com/Idnan/bash-guide)
 - [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
-- Mấy bài trên:
+- Vài bài trên:
     - [PsychCentral](https://psychcentral.com/)
     - https://github.com/mtdvio/every-programmer-should-know
     - https://linuxtldr.com/, https://linuxjourney.com/
