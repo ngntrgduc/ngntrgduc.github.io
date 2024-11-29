@@ -5,7 +5,7 @@ tags: ["random", "monthly"]
 showtoc: false
 ---
 
-Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay, nghệ nghệ thì mình sẽ quăng lên đây, và được cập nhật vào mỗi tháng. Mong rằng làm như này thì mình sẽ siêng hơn (?)
+Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay, nghệ nghệ, thú vị thì mình sẽ quăng lên đây, và được cập nhật vào mỗi tháng. Mong rằng làm như này thì mình sẽ siêng hơn (?)
 
 ---
 
@@ -13,6 +13,17 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 #### Đọc
 
 #### Xem -->
+
+### Tháng 11/2024
+#### Đọc
+- [EasyPeasy](https://spiderum.com/bai-dang/EasyPeasy-tu-bo-Porn-de-dang-XRpYqmHhIYXf)
+- ["Thông điệp của nước" là cuốn sách thuộc thể loại "hư cấu"](https://thaiducphuong.wordpress.com/2021/07/11/ve-mot-cuon-sach-lien-quan-toi-de-thi-tot-nghiep-thpt-mon-van-2021/)
+- [Không uống ai đổ vào mồm, và tại sao điện thoại còn tệ hơn cả cồn](https://spiderum.com/bai-dang/Khong-uong-ai-do-vao-mom-va-tai-sao-dien-thoai-con-te-hon-ca-con-j9fGPXWVIdXL)
+- [Đọc Chậm 24/11: Du học, Đọc sách và AI](https://hoquoctuan.substack.com/p/oc-cham-2411-du-hoc-oc-sach-va-ai)
+
+#### Xem
+- [Ai Lo-Fi Music Is Ruining YouTube](https://www.youtube.com/watch?v=_oxtFP2UUyM)
+- [A simple procedural animation technique](https://www.youtube.com/watch?v=qlfh_rv6khY)
 
 
 ### Tháng 10/2024

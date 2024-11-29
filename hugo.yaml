@@ -78,7 +78,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there 🐧"
-    Content: Welcome to my blog, feel free to hit me up
+    Content: Welcome to my blog, feel free to hit me up ✌️
 
   socialIcons:
     - name: email
