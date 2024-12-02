@@ -9,14 +9,21 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 
 ---
 
-<!-- ### Tháng /2024
+<!-- ### Tháng /2025
 #### Đọc
 
 #### Xem -->
 
+<!-- ### Tháng 12/2024
+#### Đọc
+
+
+#### Xem -->
+
+
+
 ### Tháng 11/2024
 #### Đọc
-- [EasyPeasy](https://spiderum.com/bai-dang/EasyPeasy-tu-bo-Porn-de-dang-XRpYqmHhIYXf)
 - ["Thông điệp của nước" là cuốn sách thuộc thể loại "hư cấu"](https://thaiducphuong.wordpress.com/2021/07/11/ve-mot-cuon-sach-lien-quan-toi-de-thi-tot-nghiep-thpt-mon-van-2021/)
 - [Không uống ai đổ vào mồm, và tại sao điện thoại còn tệ hơn cả cồn](https://spiderum.com/bai-dang/Khong-uong-ai-do-vao-mom-va-tai-sao-dien-thoai-con-te-hon-ca-con-j9fGPXWVIdXL)
 - [Đọc Chậm 24/11: Du học, Đọc sách và AI](https://hoquoctuan.substack.com/p/oc-cham-2411-du-hoc-oc-sach-va-ai)

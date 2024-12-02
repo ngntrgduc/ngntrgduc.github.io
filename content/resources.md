@@ -5,6 +5,7 @@ tocopen: true
 ShowReadingTime: false
 ---
 - Đây là trang lưu trữ một số nguồn tài liệu mà mình thấy hay hay
+- [Tháng này làm gì?](/monthly-stuff)
 - [Random quotes](/quotes)
 
 ## Mathematics
