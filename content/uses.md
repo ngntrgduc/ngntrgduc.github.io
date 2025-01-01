@@ -29,7 +29,7 @@ ShowReadingTime: false
 ### Nhà làm
 - [Dictionary Look Up](https://github.com/ngntrgduc/Dictionary-Look-Up): Tra cứu từ vựng on the fly
 - [Multiple links loader](https://github.com/ngntrgduc/Multiple-links-loader): Bạn cần mở nhiều tab khác nhau cùng 1 lúc?
-- [Minimal Image Search (firefox)](https://github.com/ngntrgduc/Minimal-image-search): Tìm kiếm hình ảnh trên firefox, nhẹ hơn cái được recommended trên Add-ons
+- [Minimal Image Search (firefox)](https://github.com/ngntrgduc/Minimal-image-search): Tìm kiếm hình ảnh trên Firefox, nhẹ hơn cái được recommended trên [Add-ons](https://addons.mozilla.org/en-US/firefox/addon/search_by_image)
 
 ## Linh tinh
 - [bookmarklets](https://github.com/ngntrgduc/bookmarklets): Bookmarklets linh tinh
@@ -45,6 +45,8 @@ ShowReadingTime: false
 - [Thunderbird](https://www.thunderbird.net/en-US/): Emails management, RSS reader, and Privacy
 - [VLC media player](https://www.videolan.org/vlc/): Video player, vì cái mặc định của windows quá ngu
 - [Flameshot](https://github.com/flameshot-org/flameshot): Screenshot software
+- [Zotero](https://www.zotero.org/): Reference management, for research
+- [Krita](https://krita.org/en/): Khi mình muốn chỉnh ảnh đơn giản gì đó
 
 ### Command-line
 - [espanso](https://github.com/espanso/espanso): Text Expander
@@ -56,4 +58,4 @@ ShowReadingTime: false
 - [starship](https://github.com/starship/starship): Shell prompt
 
 ---
-Last modified: 28/08/2024
+Last modified: 01/01/2025

@@ -14,12 +14,16 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 
 #### Xem -->
 
-<!-- ### Tháng 12/2024
+### Tháng 12/2024
+Tháng này mình chuẩn bị thi cuối kì nên sẽ không có nhiều hoạt động cho lắm...
 #### Đọc
+- [#134: Bạn đang xếp hàng hay xếp hình? - by Tuấn Mon](https://manyonepercents.substack.com/p/134-ban-dang-xep-hang-hay-xep-hinh)
+- [Slice & Dice: A Self-service Analytics Story](https://www.holistics.io/blog/self-service-analytics-comic/)
+- [What is wrong with boolean parameters? | Understand Legacy Code](https://understandlegacycode.com/blog/what-is-wrong-with-boolean-parameters/)
+- rất nhiều papers...
 
-
-#### Xem -->
-
+#### Xem
+- [Why Love Won't Make You Happy](https://www.youtube.com/watch?v=qHJT1fqfMqc)
 
 
 ### Tháng 11/2024
