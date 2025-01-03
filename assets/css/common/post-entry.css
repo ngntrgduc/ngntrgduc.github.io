@@ -40,7 +40,15 @@
     background: var(--entry);
     border-radius: var(--radius);
     transition: transform 0.1s;
-    border: 1px solid var(--border);
+    border: 2px solid var(--border);
+}
+
+.dark .post-entry:hover {
+    border: 2px solid var(--mocha-blue);
+}
+
+.post-entry:hover {
+    border: 2px solid var(--latte-blue);
 }
 
 .post-entry:active {
@@ -68,6 +76,7 @@
 }
 
 .entry-footer {
+    padding-top: 0.2em;
     color: var(--secondary);
     font-size: 13px;
 }

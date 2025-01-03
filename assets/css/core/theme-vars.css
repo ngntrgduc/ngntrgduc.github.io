@@ -15,6 +15,8 @@
     --hljs-bg: rgb(28, 29, 33);
     --code-bg: rgb(204, 208, 218);
     --border: rgb(230, 233, 239);
+    --mocha-blue: rgb(137, 180, 250);
+    --latte-blue: rgb(30, 102, 245);
 }
 
 .dark {
@@ -38,26 +40,26 @@
 }
 
 a:hover{
-    color: #1e66f5;
+    color: var(--latte-blue);
 }
 
 .dark a:hover{
-    color: #89b4fa;
+    color: var(--mocha-blue);
 }
 
 button:hover {
-    color: #1e66f5;
+    color: var(--latte-blue);
 }
 
 .dark button:hover {
-    color: #89b4fa;
+    color: var(--mocha-blue);
 }
 
 blockquote {
     font-style: italic;
-    color: #1e66f5;
+    color: var(--latte-blue);
 }
 
 .dark blockquote {
-    color: #89b4fa;
+    color: var(--mocha-blue);
 }
