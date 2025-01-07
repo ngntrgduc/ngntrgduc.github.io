@@ -14,6 +14,14 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 
 #### Xem -->
 
+
+
+### Tháng 1/2025
+#### Đọc
+
+#### Xem
+
+
 ### Tháng 12/2024
 Tháng này mình chuẩn bị thi cuối kì nên sẽ không có nhiều hoạt động cho lắm...
 #### Đọc
