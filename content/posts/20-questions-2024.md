@@ -1,7 +1,7 @@
 ---
 title: "20 questions for 2024"
 date: 2025-01-07T17:10:33+07:00
-tags: ["life"]
+tags: ["life", "20 questions"]
 ---
 
 I was inspired by https://stephango.com/40-questions, but I reduced the number of questions to 20 so that I wouldn't feel lazy doing this.
@@ -53,7 +53,7 @@ I was inspired by https://stephango.com/40-questions, but I reduced the number o
 **15. What was your favorite movie?**
 - Twinkling Watermelon
 
-**16. What did you want and get ?**
+**16. What did you want and get?**
 - Scholarship
 
 **17. What did you want and not get?**
