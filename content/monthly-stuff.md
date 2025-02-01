@@ -18,8 +18,14 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 
 ### Tháng 1/2025
 #### Đọc
-
+- [Đọc Chậm Cuối Năm 2024: Nên Học Nâng Cao Chuyên Môn Hay Học Đầu Tư?](https://hoquoctuan.substack.com/p/oc-cham-cuoi-nam-2024-nen-hoc-nang)
+- [#135: Inertia - by Tuấn Mon](https://manyonepercents.substack.com/p/135-inertia)
+- Vài bài trên [Viet Academics](https://vaforums.github.io/archive/)
 #### Xem
+- [Fixed Points - Vsauce](https://www.youtube.com/watch?v=csInNn6pfT4)
+- [i am begging you to read some fiction bro](https://www.youtube.com/watch?v=92tVm7VSlic)
+- [Chaos Theory: the language of (in)stability](https://www.youtube.com/watch?v=uzJXeluCKMs)
+- [Chaos: The Science of the Butterfly Effect](https://www.youtube.com/watch?v=fDek6cYijxI)
 
 
 ### Tháng 12/2024
