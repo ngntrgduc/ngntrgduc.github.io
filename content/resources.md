@@ -77,6 +77,7 @@ ShowReadingTime: false
 - [Linux Journey](https://linuxjourney.com/)
 - [A guide to learn bash](https://github.com/Idnan/bash-guide)
 - [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+- https://codingchallenges.fyi/challenges/intro
 
 ## Blogroll
 - https://balldk.github.io/
