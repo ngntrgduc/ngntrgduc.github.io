@@ -63,3 +63,7 @@ blockquote {
 .dark blockquote {
     color: var(--mocha-blue);
 }
+
+.pagination a:hover {
+    color: var(--theme);
+}
