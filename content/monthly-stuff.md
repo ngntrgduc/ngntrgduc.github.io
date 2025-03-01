@@ -15,6 +15,24 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 #### Xem -->
 
 
+### Tháng 2/2025
+#### Đọc
+- https://github.com/zakirullin/cognitive-load
+- [The importance of stupidity in scientific research](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
+- [Tự chủ đại học dựa trên học phí ?](https://tiasang.com.vn/giao-duc/tu-chu-dai-hoc-dua-tren-hoc-phi/)
+- [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it/), có khi cái blog của mình cũng chả có ai đọc =))))
+- [Why I no longer recommend Julia](https://yuri.is/not-julia/)
+- https://developers.google.com/tech-writing
+#### Xem
+- [PiMA Podcast Tháng 12/2024: Tips và chia sẻ kinh nghiệm khi học PhD](https://www.youtube.com/watch?v=MVy7ApX1JWQ)
+- [How to make your stress work for you - Shannon Odell](https://www.youtube.com/watch?v=awhOrqGb-TU)
+- [A harmless addiction...](https://www.youtube.com/watch?v=3HnL4yMxpJM)
+- [Why Neural Networks can learn (almost) anything](https://www.youtube.com/watch?v=0QczhVg5HaI)
+- [34 Years Of Strandbeest Evolution](https://www.youtube.com/watch?v=IFaAjR_RRJs)
+- [Why Useless Knowledge Can Be So Useful](https://www.youtube.com/watch?v=KELjtarJ2TY)
+- [uv: An Extremely Fast Python Package Manager](https://www.youtube.com/watch?v=gSKTfG1GXYQ)
+- [Hiệu ứng NGƯỜI XẤU | SAMURICE](https://www.youtube.com/watch?v=yWru_OVZxE0)
+
 
 ### Tháng 1/2025
 #### Đọc
