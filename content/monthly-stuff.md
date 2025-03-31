@@ -14,6 +14,12 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 
 #### Xem -->
 
+### Tháng 3/2025
+Tháng này hơi bị khủng hoảng...
+#### Xem
+- [Huffman Codes: An Information Theory Perspective](https://www.youtube.com/watch?v=B3y0RsVCyrw)
+- [I built a QR code with my bare hands to see how it works](https://www.youtube.com/watch?v=w5ebcowAJD8)
+- [Gen Z Truyền - Vietcetera](https://www.youtube.com/playlist?list=PLWrhnsc6CvcpueddCFsgD3YIS3cPqb2-x): Vui Vẻ, Meichan, Vừng
 
 ### Tháng 2/2025
 #### Đọc
