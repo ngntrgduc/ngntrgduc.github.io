@@ -1,7 +1,7 @@
 ---
 title: "My Projects Graveyard"
 date: 2023-12-31T10:56:18+07:00
-tags: ["code", "extension"]
+tags: ["code", "browser-extension"]
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mình dùng Vimium thế nào?"
 date: 2024-02-14T11:01:28+07:00
-tags: ["extension", "use"]
+tags: ["browser-extension", "use"]
 ---
 
 ## Vimium?
