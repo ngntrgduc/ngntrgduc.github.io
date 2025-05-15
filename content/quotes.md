@@ -11,7 +11,7 @@ ShowReadingTime: false
 
 > "And, when you want something, all the universe conspires in helping you to achieve it." -  Paulo Coelho, The Alchemist 
 
-> "Shoot for the moon. Even if you miss, you'll land among the stars." - Norman Vincent Peale 
+> "Shoot for the moon. Even if you miss, you'll land among the stars."
 
 > "Today is the first day of the rest of your life" - Elon Musk
 

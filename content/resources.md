@@ -100,7 +100,7 @@ ShowReadingTime: false
 - [Andrej Karpathy - A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 - [Applying to Ph.D. Programs in Computer Science, Mor Harchol-Balter - CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 - https://franknielsen.github.io/Books/CuratedBookLists.html
-- https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli
+- [News is bad for you, and giving up reading it will make you happier - Guardian](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
 - https://pythonspeed.com/: Write faster Python code
 - [Monster Box](https://mbpedia.com/vi)
 - https://imissmycafe.com/: ☕ vibe
@@ -109,3 +109,4 @@ ShowReadingTime: false
 - https://www.privacyguides.org/
 - [Nobody cares about your blog.](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
 - https://thetoobluescientist.com/
+- The Decision Lab: [Reference guide](https://thedecisionlab.com/reference-guide), [Biases](https://thedecisionlab.com/biases-index)

@@ -14,6 +14,21 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 
 #### Xem -->
 
+<!-- ### Tháng 5/2025
+#### Đọc
+
+#### Xem
+- [Kung Fu Panda | Who Are You](https://www.youtube.com/watch?v=XbhecuoEgxs)
+- [Your Life as Miyamoto Musashi](https://www.youtube.com/watch?v=WolmBrbo9-U) -->
+
+### Tháng 4/2025
+#### Xem
+- [Vì sao 1 USD = 25,000 VND?](https://www.youtube.com/watch?v=r7ayTjQ24fk)
+- [The Rise of Vietnam](https://www.youtube.com/watch?v=PzsCQ152FRg)
+- [Vì Sao Việt Nam Cần Sáp Nhập Tỉnh NGAY LÚC NÀY?](https://www.youtube.com/watch?v=6QyBgGUHmb0)
+- [Cách để THỰC SỰ ngưng trì hoãn](https://www.youtube.com/watch?v=4LFUEK8cEbo): Cảm ơn video này đã cảnh tỉnh mình để quay lại với khoá luận...
+- Phim: Blade Runner 2049, The Wild Robot
+
 ### Tháng 3/2025
 Tháng này hơi bị khủng hoảng...
 #### Xem
