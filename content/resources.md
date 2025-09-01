@@ -33,6 +33,7 @@ ShowReadingTime: false
 ### Misc
 - https://github.com/rossant/awesome-math
 - [A Guide to Writing Mathematics, Dr. Kevin P. Lee](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf)
+- [Practical suggestions for mathematical writing, Prof Bjorn Poonen (MIT)](https://math.mit.edu/~poonen/papers/writing.pdf)
 - [Typst](https://github.com/typst/typst): Giảm gánh nặng cho việc gõ công thức toán, kẻ thay thế Latex...
 - [Learn Latex in 30 minutes - Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [An interactive guide to the game theory of cooperation ](https://github.com/ncase/trust)
@@ -90,6 +91,7 @@ ShowReadingTime: false
 - https://quan.hoabinh.vn/
 - https://jalsol.github.io/blog/
 - https://www.nayuki.io/
+- https://dungxibo123.github.io/
 
 
 ## Misc

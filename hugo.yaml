@@ -77,7 +77,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to my blog 🐧"
+    Title: "Hello, welcome to my blog 🐧"
     Content: 
 
   socialIcons:
@@ -89,10 +89,10 @@ params:
     - name: linkedin
       title: LinkedIn
       url: "https://www.linkedin.com/in/ngntrgduc/"
-    - name: twitter
-      url: "https://twitter.com/ngntrgduc"
+    # - name: twitter
+      # url: 
     # - name: mastodon
-    #   url: "https://mathstodon.xyz/@ngntrgduc"
+    #   url: 
     - name: goodreads
       url: "https://www.goodreads.com/ngntrgduc"
     - name: facebook

@@ -14,12 +14,32 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 
 #### Xem -->
 
-<!-- ### Tháng 5/2025
+### Tháng 8/2025
 #### Đọc
+- [Tại sao ông bà già lại sinh ra bạn mà không hỏi ý kiến bạn trước?](https://spiderum.com/bai-dang/Tai-sao-ong-ba-gia-lai-sinh-ra-ban-ma-khong-hoi-y-kien-ban-truoc-iG3P68cMfYIf)
+- [Toán học với sự thực dụng - Ấn phẩm Tia Sáng](https://tiasang.com.vn/doi-moi-sang-tao/toan-hoc-voi-su-thuc-dung/)
+- [The Fountain Issue #17 - Information Whores - Odysseas](https://odysseas.kit.com/posts/the-fountain-issue-17-information-whores)
+- [Tại sao người miền Bắc Việt Nam"xấu xí"](https://spiderum.com/bai-dang/Tai-sao-nguoi-mien-Bac-Viet-Namxau-xi-zWaDejc2L9xG)
+- Advanced Python Mastery: https://github.com/dabeaz-course/python-mastery
+
+#### Xem
+- [How ChatGPT Slowly Destroys Your Brain - Science Confirms It](https://www.youtube.com/watch?v=6sJ50Ybp44I)
+- [Yuval Noah Harari: How to safeguard your mind in the age of junk information](https://www.youtube.com/watch?v=K1OvbwY6GPM)
+- [How Japan escaped Obesity while America got Fat](https://www.youtube.com/watch?v=TH6Wq4KWu7M)
+
+
+### Tháng 6-7/2025
+- Speed run khoá luận...
+
+
+### Tháng 5/2025
+#### Đọc
+- [Tôi tài giỏi - Ừ kệ bạn](https://spiderum.com/bai-dang/Toi-tai-gioi-U-ke-ban-6pg)
+- [Thành đạt hay cái bẫy của tuổi trẻ?](https://spiderum.com/bai-dang/Thanh-dat-hay-cai-bay-cua-tuoi-tre-cm0)
 
 #### Xem
 - [Kung Fu Panda | Who Are You](https://www.youtube.com/watch?v=XbhecuoEgxs)
-- [Your Life as Miyamoto Musashi](https://www.youtube.com/watch?v=WolmBrbo9-U) -->
+- [Your Life as Miyamoto Musashi](https://www.youtube.com/watch?v=WolmBrbo9-U)
 
 ### Tháng 4/2025
 #### Xem

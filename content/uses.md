@@ -16,14 +16,14 @@ ShowReadingTime: false
 ## Browser extension
 - Browser: Firefox (chính), Chrome (cho social media)
 - [Onetab](https://www.one-tab.com/): Nó sẽ gom tất các tab hiện tại của trình duyệt thành 1 tab duy nhất, giúp giảm gánh nặng cho RAM của bạn
-- [Vimium](https://vimium.github.io/): Dùng vim trên trình duyệt của bạn. Nó sẽ giúp bạn duyệt web mà không cần chuột :>.
+- [Vimium](https://vimium.github.io/): Dùng vim trên trình duyệt của bạn. Nó sẽ giúp bạn duyệt web mà không cần chuột :>
 - [Dark Reader](https://darkreader.org/): Theme tối cho những trang web không có theme tối 🥲
 - [Sidebery (firefox)](https://addons.mozilla.org/en-US/firefox/addon/sidebery/): Tab dọc, với tính năng Unload tab, rất tiện lợi cho việc chạy deadline
 - [Auto Tab Discard](https://github.com/rNeomy/auto-tab-discard): Tự động giảm gánh nặng cho RAM của bạn khi bạn đang mở nhiều tabs, điển hình như khi đang làm Seminar
 - [uBlock Origin](https://ublockorigin.com/): Dùng để chặn ads, ẩn mấy cái element mà mình không thích trên web
 - [Refined GitHub](https://github.com/refined-github/refined-github): Làm GitHub trở nên mượt mà hơn
 - [Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike), [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [SponsorBlock](https://github.com/ajayyy/SponsorBlock): Làm YouTube mượt mà hơn
-- [Tampermonkey](https://www.tampermonkey.net/): Quản lí userscripts
+- ~~[Tampermonkey](https://www.tampermonkey.net/)~~ [Violentmonkey](https://violentmonkey.github.io/): Quản lí userscripts
 - [Link Gopher](https://github.com/az0/linkgopher): Lấy tất cả links có trên trang web, hỗ trợ regex
 
 ### Nhà làm
@@ -43,9 +43,9 @@ ShowReadingTime: false
 ### Software
 - [Obsidian](https://obsidian.md/): Mình dùng để tạo cái graph knowledge (tại mình kiếm không ra cái app nào để tạo cái graph xịn giống như Obsidian hết 😢)
 - [Thunderbird](https://www.thunderbird.net/en-US/): Emails management, RSS reader, and Privacy
-- [VLC media player](https://www.videolan.org/vlc/): Video player, vì cái mặc định của windows quá ngu
+- [mpv](https://mpv.io/), [VLC media player](https://www.videolan.org/vlc/): Video player, vì cái mặc định của Windows quá ngu
 - [Flameshot](https://github.com/flameshot-org/flameshot): Screenshot software
-- [Zotero](https://www.zotero.org/): Reference management, for research
+- [Zotero](https://www.zotero.org/): Reference management
 - [Krita](https://krita.org/en/): Khi mình muốn chỉnh ảnh đơn giản gì đó
 
 ### Command-line
