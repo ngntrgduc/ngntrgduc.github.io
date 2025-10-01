@@ -5,7 +5,9 @@ tags: ["random", "monthly"]
 showtoc: false
 ---
 
-Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay, nghệ nghệ, thú vị thì mình sẽ quăng lên đây, và được cập nhật vào mỗi tháng. Mong rằng làm như này thì mình sẽ siêng hơn (?)
+Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay, nghệ nghệ, thú 
+vị thì mình sẽ quăng lên đây, và được cập nhật vào mỗi tháng. Mong rằng làm như
+ này thì mình sẽ siêng hơn (?)
 
 ---
 
@@ -13,6 +15,12 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 #### Đọc
 
 #### Xem -->
+
+### Tháng 9/2025
+#### Xem
+- [The Man Who Almost Broke Math (And Himself...) - Axiom of Choice](https://www.youtube.com/watch?v=_cr46G2K5Fo)
+- [Graph Theory in State-Space](https://www.youtube.com/watch?v=YGLNyHd2w10)
+- Phim: Light Shop (2024), Our Unwritten Seoul
 
 ### Tháng 8/2025
 #### Đọc
