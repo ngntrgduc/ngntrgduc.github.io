@@ -16,6 +16,11 @@ vị thì mình sẽ quăng lên đây, và được cập nhật vào mỗi th�
 
 #### Xem -->
 
+### Tháng 10/2025
+#### Xem
+- [The Incredibles - Anh Hùng trong Xã Hội](https://www.youtube.com/watch?v=uCspibr_Y_s)
+- Phim: Go Back Couple (2017)
+
 ### Tháng 9/2025
 #### Xem
 - [The Man Who Almost Broke Math (And Himself...) - Axiom of Choice](https://www.youtube.com/watch?v=_cr46G2K5Fo)
