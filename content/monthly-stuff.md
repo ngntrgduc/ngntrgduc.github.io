@@ -16,6 +16,11 @@ vị thì mình sẽ quăng lên đây, và được cập nhật vào mỗi th�
 
 #### Xem -->
 
+### Tháng 11/2025
+#### Xem
+- [Ratatouille: bộ phim về giai cấp và cách mạng](https://www.youtube.com/watch?v=StiT_RiHDqY)
+- [Kinh tế cảm xúc - Cách nhãn hàng thao túng người tiêu dùng | SAMURICE GIẢI THÍCH](https://www.youtube.com/watch?v=iq3XsSHhQeA)
+
 ### Tháng 10/2025
 #### Xem
 - [The Incredibles - Anh Hùng trong Xã Hội](https://www.youtube.com/watch?v=uCspibr_Y_s)
