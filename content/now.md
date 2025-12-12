@@ -3,7 +3,7 @@ title:  "What I’m doing now"
 ShowReadingTime: false
 ---
 
-- Thất nghiệp
+- Thất nghiệp và kiếm việc
 - Học linh ta linh tinh
 - Làm người
 

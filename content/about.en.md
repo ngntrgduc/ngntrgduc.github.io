@@ -4,7 +4,8 @@ showtoc: false
 ShowReadingTime: false
 ---
 
-Hi 🐧. My name is Trung-Duc Nguyen (Nguyễn Trung Đức in Vietnamese). I'm currently a final-year undergraduate majoring in Mathematics and Computer Science at University of Science - VNUHCM.
+Hi 🐧. My name is Trung-Duc Nguyen (Nguyễn Trung Đức in Vietnamese). 
+I'm a recent graduate majoring in Mathematics and Computer Science at University of Science - VNUHCM.
 
 I love learning about:
 - probability & statistics
