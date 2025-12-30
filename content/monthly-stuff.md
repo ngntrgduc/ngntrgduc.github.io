@@ -16,6 +16,13 @@ vị thì mình sẽ quăng lên đây, và được cập nhật vào mỗi th�
 
 #### Xem -->
 
+
+### Tháng 12/2025
+#### Đọc
+- [Nuôi dạy trẻ ở Việt Nam: Xung đột giữa Giá trị Cá nhân và Chuẩn mực Cộng đồng](https://spiderum.com/bai-dang/Nuoi-day-tre-o-Viet-Nam-Xung-dot-giua-Gia-tri-Ca-nhan-va-Chuan-muc-Cong-dong-ZCO05qR69ntj)
+- [Tôi dùng Lý thuyết Trò chơi (Game Theory) để khuyên bạn Đừng Kết Hôn và Sinh con?](https://spiderum.com/bai-dang/Toi-dung-Ly-thuyet-Tro-choi-Game-Theory-de-khuyen-ban-Dung-Ket-Hon-va-Sinh-con-yBcfWKkZr5d2)
+- https://github.com/kettanaito/naming-cheatsheet
+
 ### Tháng 11/2025
 #### Xem
 - [Ratatouille: bộ phim về giai cấp và cách mạng](https://www.youtube.com/watch?v=StiT_RiHDqY)
