@@ -3,6 +3,10 @@ title:  "Random quotes"
 ShowReadingTime: false
 ---
 
+[My Goodreads' quotes](https://www.goodreads.com/quotes/list/174059722)
+
+---
+
 > "Good things take time."
 
 > "Small progress is still progress."
