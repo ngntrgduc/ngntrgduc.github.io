@@ -71,6 +71,7 @@ This song help me cope with my thesis 🙏.
 **19. What valuable life lesson did you learn this year?**
 - If you're not passionate about what you do, nothing else really matters.
 - "It’s all about balance, not trade-offs. A trade-off implies a sense of coercion, but every choice we make is entirely our own."
+- Be proactive. Prepare for opportunities and seize them when they arise.
 
 **20. What is your favorite quote of the year?**
 - "Obsession beats talent"
