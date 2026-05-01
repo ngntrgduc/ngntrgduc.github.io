@@ -79,6 +79,7 @@ ShowReadingTime: false
 - [A guide to learn bash](https://github.com/Idnan/bash-guide)
 - [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 - https://codingchallenges.fyi/challenges/intro
+- [CMU 15-445/645 :: Intro to Database Systems (Fall 2025)](https://15445.courses.cs.cmu.edu/fall2025/)
 
 ## Blogroll
 - https://balldk.github.io/
@@ -92,6 +93,7 @@ ShowReadingTime: false
 - https://jalsol.github.io/blog/
 - https://www.nayuki.io/
 - https://dungxibo123.github.io/
+- https://thinhcorner.com/
 
 
 ## Misc
