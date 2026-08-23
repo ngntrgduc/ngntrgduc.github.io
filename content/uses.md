@@ -22,14 +22,13 @@ ShowReadingTime: false
 - [Auto Tab Discard](https://github.com/rNeomy/auto-tab-discard): Tự động giảm gánh nặng cho RAM của bạn khi bạn đang mở nhiều tabs, điển hình như khi đang làm Seminar
 - [uBlock Origin](https://ublockorigin.com/): Dùng để chặn ads, ẩn mấy cái element mà mình không thích trên web
 - [Refined GitHub](https://github.com/refined-github/refined-github): Làm GitHub trở nên mượt mà hơn
-- [Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike), [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [SponsorBlock](https://github.com/ajayyy/SponsorBlock): Làm YouTube mượt mà hơn
+- [Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike), [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [SponsorBlock](https://github.com/ajayyy/SponsorBlock): Coi YouTube phê hơn
 - ~~[Tampermonkey](https://www.tampermonkey.net/)~~ [Violentmonkey](https://violentmonkey.github.io/): Quản lí userscripts
 - [Link Gopher](https://github.com/az0/linkgopher): Lấy tất cả links có trên trang web, hỗ trợ regex
 
 ### Nhà làm
 - [Dictionary Look Up](https://github.com/ngntrgduc/Dictionary-Look-Up): Tra cứu từ vựng on the fly
-- [Multiple links loader](https://github.com/ngntrgduc/Multiple-links-loader): Bạn cần mở nhiều tab khác nhau cùng 1 lúc?
-- [Minimal Image Search (firefox)](https://github.com/ngntrgduc/Minimal-image-search): Tìm kiếm hình ảnh trên Firefox, nhẹ hơn cái được recommended trên [Add-ons](https://addons.mozilla.org/en-US/firefox/addon/search_by_image)
+- [Multiple links loader](https://github.com/ngntrgduc/Multiple-links-loader): Bạn cần mở nhiều tab khác nhau cùng 1 lúc mà không muốn đụng tới bàn phím?
 
 ## Linh tinh
 - [bookmarklets](https://github.com/ngntrgduc/bookmarklets): Bookmarklets linh tinh
@@ -47,15 +46,16 @@ ShowReadingTime: false
 - [Flameshot](https://github.com/flameshot-org/flameshot): Screenshot software
 - [Zotero](https://www.zotero.org/): Reference management
 - [Krita](https://krita.org/en/): Khi mình muốn chỉnh ảnh đơn giản gì đó
+- [Anki](https://apps.ankiweb.net/): Flashcard + Space repetition
 
 ### Command-line
 - [espanso](https://github.com/espanso/espanso): Text Expander
 - [ripgrep](https://github.com/BurntSushi/ripgrep): Recursively searches directories for a regex pattern
 - [fzf](https://github.com/junegunn/fzf): fuzzy finder
-- [LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR): Convert images of equations into LaTeX code
+- ~~[LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR): Convert images of equations into LaTeX code~~ (ChatGPT can handle this effectively now).
 - [zoxide](https://github.com/ajeetdsouza/zoxide): Smarter `cd` command
 - [exa](https://github.com/ogham/exa): Better `ls` command
 - [starship](https://github.com/starship/starship): Shell prompt
 
 ---
-Last modified: 01/01/2025
+Last modified: 08/2026
