@@ -3,10 +3,10 @@ title:  "What I’m doing now"
 ShowReadingTime: false
 ---
 
-- Thất nghiệp và kiếm việc
+- Học thạc sĩ...
 - Học linh ta linh tinh
 - Làm người
 
 ---
 
-Cập nhật lần cuối vào 08/2025.
+Cập nhật lần cuối vào 08/2026.
