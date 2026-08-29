@@ -9,12 +9,35 @@ Chủ yếu là những thứ linh tinh mình đọc, coi mà thấy nó hay hay
 vị thì mình sẽ quăng lên đây, và được cập nhật vào mỗi tháng. Mong rằng làm như
  này thì mình sẽ siêng hơn (?)
 
+Last updated: 2026-08-22
+
 ---
 
 <!-- ### Tháng /2026
 #### Đọc
 
 #### Xem -->
+
+### Tháng 7-8/2026
+- Quên mất sự tồn tại của cái này..., mà thôi cũng được 2 năm rồi, chắc nên từ bỏ việc viết trang này vì giờ mình cũng bận :(. Để ở đây coi như là kỉ niệm, mong là bạn sẽ tìm được cái gì hay hay từ cái trang này 🐧.
+
+Note: các bài trên Spiderum thì chịu, các bạn thử xem link có ở trên [Internet Archive](https://archive.org/) không.
+
+### Tháng 6/2026
+#### Xem
+- [We aren’t ready for Meta glasses](https://www.youtube.com/watch?v=It4mt2uzhpY)
+- [I tried to buy a scientific paper](https://www.youtube.com/watch?v=SEwiOykoXXc)
+
+
+### Tháng 5/2026
+#### Đọc
+- [Điều tệ nhất của việc học Giáo dục | Vietcetera](https://vietcetera.com/vn/dieu-te-nhat-cua-viec-hoc-giao-duc)
+- [Bullshit universities: the future of automated education | AI & SOCIETY | Springer Nature Link](https://link.springer.com/article/10.1007/s00146-025-02340-8)
+- [Tri thức ảo - phục trang của bản ngã?](https://spiderum.com/bai-dang/Tri-thuc-ao-dieu-gi-dang-tro-thanh-phuc-trang-cho-ban-nga-ZhSwZz54ebvN)
+
+#### Xem
+- [Vì sao bạn chưa sống đúng với tiềm năng của mình?](https://www.youtube.com/watch?v=otZD3HJlXYQ)
+
 
 ### Tháng 4/2026
 #### Đọc

@@ -5,7 +5,7 @@ tocopen: true
 ShowReadingTime: false
 ---
 - Đây là trang lưu trữ một số nguồn tài liệu mà mình thấy hay hay
-- [Tháng này làm gì?](/monthly-stuff)
+- [Tháng này làm gì?](/monthly-stuff) (cho tới tháng 8/2026)
 - [Random quotes](/quotes)
 
 ## Mathematics
@@ -18,6 +18,7 @@ ShowReadingTime: false
 - A First Course in Probability, Sheldon M. Ross
 - [Convex Optimization, Stephen Boyd, Lieven Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 - Numerical linear algebra, Nick Trefethen
+- [Book of Proof, Richard Hammack](https://richardhammack.github.io/BookOfProof/Main.pdf)
 
 
 ### Sites/Blogs
@@ -29,6 +30,7 @@ ShowReadingTime: false
 - [r/math](https://www.reddit.com/r/math/top/?t=all): 🤯
 - https://www.probabilitycourse.com/: Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik
 - https://betterexplained.com/
+- [Topics in Mathematics with Applications in Finance | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
 ### Misc
 - https://github.com/rossant/awesome-math
