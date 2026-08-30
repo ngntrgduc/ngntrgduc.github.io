@@ -3,7 +3,7 @@ title:  "What I’m doing now"
 ShowReadingTime: false
 ---
 
-- Học thạc sĩ...
+- Học Toán...
 - Học linh ta linh tinh
 - Làm người
 
