@@ -244,10 +244,10 @@ languages:
           name: About
           url: /about/
           weight: 1
-        - identifier: now
-          name: Now
-          url: /now/
-          weight: 2
+        # - identifier: now
+        #   name: Now
+        #   url: /now/
+        #   weight: 2
         # - identifier: publications
         #   name: Publications
         #   url: /publications/
@@ -265,17 +265,17 @@ languages:
           url: /resources/
           weight: 6
         - identifier: archives
-          name: 📦
+          name: Archive
           title: Archive
           url: /archives/
           weight: 7
         - identifier: tags
-          name: 🏷️
+          name: Tags
           title: Tags
           url: /tags/
           weight: 8
         - identifier: search
-          name: 🔎
+          name: Search
           title: Search
           url: /search/
           weight: 9
